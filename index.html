@@ -176,15 +176,16 @@
     .hero-top {
       display: flex;
       flex-direction: column;
-      justify-content: center;
-      gap: 22px;
+      justify-content: flex-start;
+      gap: 12px;
       align-items: center;
-      margin-bottom: 20px;
+      margin-bottom: 12px;
       text-align: center;
     }
 
     .hero-copy {
-      flex: 1 1 520px;
+      flex: none;
+      width: 100%;
       text-align: center;
       margin: 0 auto;
     }
@@ -227,7 +228,7 @@
     }
 
     .hero p {
-      margin: 14px auto 0;
+      margin: 10px auto 0;
       max-width: 700px;
       font-size: clamp(17px, 2.1vw, 21px);
       line-height: 1.95;
@@ -630,7 +631,7 @@
 
     .hero-shop-action {
       justify-content: center;
-      margin-top: 26px;
+      margin-top: 14px;
     }
 
     .shop-now {
@@ -641,7 +642,7 @@
     .hero-section-nav {
       grid-template-columns: repeat(2, minmax(0, 1fr));
       max-width: 540px;
-      margin: 16px auto 0;
+      margin: 10px auto 0;
     }
 
     .hero-section-nav a {
@@ -654,15 +655,31 @@
     }
 
     @media (max-width: 620px) {
+      .hero-top { gap: 10px; margin-bottom: 8px; }
+      .hero-copy { flex: none; width: 100%; }
+      .hero p { margin-top: 8px; }
+      .badge-hours { margin-top: 0; }
       .shop-now { width: 100%; min-width: 0; }
-      .hero-section-nav { width: 100%; gap: 10px; }
-      .hero-section-nav a { padding: 13px 10px; }
+      .hero-shop-action { margin-top: 10px; }
+      .hero-section-nav { width: 100%; gap: 8px; margin-top: 8px; }
+      .hero-section-nav a { padding: 12px 10px; }
     }
 
     @media (prefers-reduced-motion: reduce) {
       *, *::before, *::after { animation: none !important; transition: none !important; }
       html { scroll-behavior: auto; }
     }
+
+    /* Branches title centered and branch labels simplified */
+    #branches .panel-title {
+      justify-content: center;
+      text-align: center;
+    }
+
+    #branches .panel-title::after {
+      display: none;
+    }
+
   </style>
 </head>
 <body>
@@ -748,7 +765,7 @@
           <a class="branch-card" href="https://www.google.com/maps/search/?api=1&query=%D8%A7%D9%84%D8%B9%D8%B1%D8%A8+%D9%85%D9%88%D9%84+%D8%AC%D8%AF%D8%A9" target="_blank" rel="noopener noreferrer">
             <span class="branch-icon">📍</span>
             <span class="branch-copy">
-              <strong>جدة — فرع العرب مول</strong>
+              <strong>جدة — العرب مول</strong>
               <small>بين بوابة 3 و 4 — الدور الأول</small>
             </span>
           </a>
@@ -756,7 +773,7 @@
           <a class="branch-card" href="https://www.google.com/maps/search/?api=1&query=%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1+%D9%85%D9%88%D9%84+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6" target="_blank" rel="noopener noreferrer">
             <span class="branch-icon">📍</span>
             <span class="branch-copy">
-              <strong>الرياض — فرع الحمراء مول</strong>
+              <strong>الرياض — الحمراء مول</strong>
               <small>بوابة 2 — الدور الأرضي</small>
             </span>
           </a>
@@ -764,7 +781,7 @@
           <a class="branch-card" href="https://www.google.com/maps/search/?api=1&query=%D8%A7%D9%84%D8%AC%D9%88%D8%B1%D9%8A+%D9%85%D9%88%D9%84+%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81" target="_blank" rel="noopener noreferrer">
             <span class="branch-icon">📍</span>
             <span class="branch-copy">
-              <strong>الطائف — فرع الجوري مول</strong>
+              <strong>الطائف — الجوري مول</strong>
               <small>بوابة 4 — الدور الأرضي</small>
             </span>
           </a>
@@ -772,7 +789,7 @@
           <a class="branch-card" href="https://www.google.com/maps/search/?api=1&query=%D8%A7%D9%84%D9%86%D8%AE%D9%8A%D9%84+%D9%85%D9%88%D9%84+%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85" target="_blank" rel="noopener noreferrer">
             <span class="branch-icon">📍</span>
             <span class="branch-copy">
-              <strong>الدمام — فرع النخيل مول</strong>
+              <strong>الدمام — النخيل مول</strong>
               <small>بوابة 4 — الدور الأرضي</small>
             </span>
           </a>
@@ -780,7 +797,7 @@
           <a class="branch-card" href="https://www.google.com/maps/search/?api=1&query=%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%B9%D9%8A+%D9%85%D9%88%D9%84+%D8%A8%D8%B1%D9%8A%D8%AF%D8%A9" target="_blank" rel="noopener noreferrer">
             <span class="branch-icon">📍</span>
             <span class="branch-copy">
-              <strong>بريدة — فرع الجديعي مول</strong>
+              <strong>بريدة — الجديعي مول</strong>
               <small>قريبًا الافتتاح</small>
               <span class="status">رابط الموقع مضاف</span>
             </span>
