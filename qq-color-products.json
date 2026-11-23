@@ -1,0 +1,67 @@
+
+{
+  "version": 1,
+  "groups": [
+    {
+      "model": "AMARELIA",
+      "products": [
+        {
+          "id": "548547980",
+          "sku": "02-1445-16",
+          "color": "كحلي",
+          "url": "https://qq-fashion.com/%D9%81%D8%B3%D8%AA%D8%A7%D9%86-%D8%A3%D9%85%D8%A7%D8%B1%D9%8A%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%A8%D9%84%D9%8A%D8%B3%D9%8A%D9%87-2112669436/p548547980",
+          "image": "https://cdn.salla.sa/PdzzEO/1eb38108-73e2-4954-a612-a20188cb0804-333.33333333333x500-M8gGKbG3lxlxibLnpHqp01koEbgE0HqywkPNpUiQ.png"
+        },
+        {
+          "id": "1639904907",
+          "sku": "02-1446-09",
+          "color": "عنابي",
+          "url": "https://qq-fashion.com/%D9%81%D8%B3%D8%AA%D8%A7%D9%86-%D8%A3%D9%85%D8%A7%D8%B1%D9%8A%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%A8%D9%84%D9%8A%D8%B3%D9%8A%D9%87-2112669436/p1639904907",
+          "image": "https://cdn.salla.sa/PdzzEO/26164ef9-17aa-4b28-8db6-95b1cc81d308-333.33333333333x500-mEYQstTruKoXP8gboplIU0EgAFfs9DLjItt93cdJ.png"
+        }
+      ]
+    },
+    {
+      "model": "JUMPSUIT-2129339815",
+      "products": [
+        {
+          "id": "517900720",
+          "sku": "05-1464-09",
+          "color": "عنابي",
+          "url": "https://qq-fashion.com/%D8%AC%D9%85%D8%A8%D8%B3%D9%88%D8%AA-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%D8%A3%D9%86%D9%8A%D9%82-2129339815/p517900720",
+          "image": "https://cdn.salla.sa/PdzzEO/dc90c7c0-cb12-41e4-a9e7-8ac917f27d0c-333.33333333333x500-6USbOCGAJ4FmWigK6rm4Ipl8TD5HeHq9qSFQvBFY.png"
+        },
+        {
+          "id": "806819005",
+          "sku": "05-1464-02",
+          "color": "أوف وايت",
+          "url": "https://qq-fashion.com/%D8%AC%D9%85%D8%A8%D8%B3%D9%88%D8%AA-%D8%A8%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%85%D8%AA%D9%82%D8%A7%D8%B7%D8%B9-%D8%A3%D9%86%D9%8A%D9%82-2129339815/p806819005",
+          "image": "https://cdn.salla.sa/PdzzEO/661129dd-3fcf-44cb-8872-4102d235710e-333.33333333333x500-WWLTMIMlsZdbBhtDdG5UmU64WL53FRDqicWAPlBt.png"
+        }
+      ]
+    },
+    {
+      "model": "DRESS-BEAUTY-FLOWER-02-1105",
+      "products": [
+        {
+          "id": "1696794935",
+          "sku": "02-1105-04",
+          "color": "وردي",
+          "url": "https://qq-fashion.com/فستان-زهرة-الجمال/p1696794935",
+          "image": "https://cdn.salla.sa/PdzzEO/a3fa319f-323f-4dc2-8896-073b5198f61a-333.33333333333x500-W6hGXENr2FCOvyN9mBJOYc2sdNFWBW12Zco6PzJ2.png"
+        },
+        {
+          "id": "2120586300",
+          "sku": "02-1105-02",
+          "color": "بيج",
+          "url": "https://qq-fashion.com/فستان-زهرة-الجمال/p2120586300",
+          "image": "https://cdn.salla.sa/PdzzEO/c935bb79-0289-447e-ab40-913406875251-333.33333333333x500-DpyDweq4s1ZfTi7QwQuHc0Mwb9babtTSBfIq6XLt.png"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
