@@ -1,4 +1,3 @@
-
 {
   "version": 1,
   "groups": [
@@ -21,6 +20,8 @@
         }
       ]
     },
+
+
     {
       "model": "JUMPSUIT-2129339815",
       "products": [
@@ -40,6 +41,8 @@
         }
       ]
     },
+
+
     {
       "model": "DRESS-BEAUTY-FLOWER-02-1105",
       "products": [
@@ -61,7 +64,7 @@
     },
 
 
-        {
+    {
       "model": "DRESS-SECRETS-OF-FEMININITY-1603394730",
       "products": [
         {
@@ -81,225 +84,1971 @@
       ]
     },
 
-{
-  "model": "021032",
-  "products": [
+
     {
-      "id": "793483681",
-      "sku": "02-1032-04",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-لمسة-اللؤلؤ-1495050646/p793483681",
-      "image": "https://cdn.salla.sa/PdzzEO/e82479de-7986-40e1-98d0-c91dc3c207a1-333.33333333333x500-wUsPVgUxFlOizgC35tpTjbDyaarmD1Qjf3wd63o2.png"
+      "model": "021032",
+      "products": [
+        {
+          "id": "793483681",
+          "sku": "02-1032-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-لمسة-اللؤلؤ-1495050646/p793483681",
+          "image": "https://cdn.salla.sa/PdzzEO/e82479de-7986-40e1-98d0-c91dc3c207a1-333.33333333333x500-wUsPVgUxFlOizgC35tpTjbDyaarmD1Qjf3wd63o2.png"
+        },
+        {
+          "id": "1495050646",
+          "sku": "02-1032-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-لمسة-اللؤلؤ-1495050646/p1495050646",
+          "image": "https://cdn.salla.sa/PdzzEO/f2baec3f-daf0-4c2c-9d74-51811817318f-333.21247280638x500-fMjzXISH5H1BWvy7Dnu2Azbp4DeUKuXWTesN9ifJ.jpg"
+        },
+        {
+          "id": "1979576200",
+          "sku": "02-1032-09",
+          "color": "لون 3",
+          "url": "https://qq-fashion.com/فستان-لمسة-اللؤلؤ-1979576200/p1979576200",
+          "image": "https://cdn.salla.sa/PdzzEO/71f5b3a0-7cb0-480d-b47e-0be432b1f4ac-332.79115159401x500-sGqG4VTUmoHFZJh0TJoBFkwHF0BoODvjdOCLzhE4.png"
+        }
+      ]
     },
+
+
     {
-      "id": "1495050646",
-      "sku": "02-1032-02",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-لمسة-اللؤلؤ-1495050646/p1495050646",
-      "image": "https://cdn.salla.sa/PdzzEO/f2baec3f-daf0-4c2c-9d74-51811817318f-333.21247280638x500-fMjzXISH5H1BWvy7Dnu2Azbp4DeUKuXWTesN9ifJ.jpg"
+      "model": "021768",
+      "products": [
+        {
+          "id": "950603865",
+          "sku": "02176805",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-زيتي-طويل-بأكتاف-مكشوفة-وكسرات-عند-الخصر-950603865/p950603865",
+          "image": "https://cdn.salla.sa/PdzzEO/4b22a1d3-624f-43ee-91b3-9c0683ceffb1-333.33333333333x500-yRGvzGzll9sHgK2GgJ6iZXxy5il8gUK0CWpYkLFt.png"
+        },
+        {
+          "id": "983658059",
+          "sku": "02176818",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-عنابي-طويل-بأكتاف-مكشوفة-وشق-أمامي-983658059/p983658059",
+          "image": "https://cdn.salla.sa/PdzzEO/eb2c1aa9-5bfd-4830-8fd0-93f279548ae3-333.33333333333x500-YHsUqXIMXdvgkgjxXRAqxYbBGSYYvdXLrAz0C6AH.png"
+        }
+      ]
     },
-    {
-      "id": "1979576200",
-      "sku": "02-1032-09",
-      "color": "لون 3",
-      "url": "https://qq-fashion.com/فستان-لمسة-اللؤلؤ-1979576200/p1979576200",
-      "image": "https://cdn.salla.sa/PdzzEO/71f5b3a0-7cb0-480d-b47e-0be432b1f4ac-332.79115159401x500-sGqG4VTUmoHFZJh0TJoBFkwHF0BoODvjdOCLzhE4.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021768",
-  "products": [
     {
-      "id": "950603865",
-      "sku": "02176805",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-زيتي-طويل-بأكتاف-مكشوفة-وكسرات-عند-الخصر-950603865/p950603865",
-      "image": "https://cdn.salla.sa/PdzzEO/4b22a1d3-624f-43ee-91b3-9c0683ceffb1-333.33333333333x500-yRGvzGzll9sHgK2GgJ6iZXxy5il8gUK0CWpYkLFt.png"
+      "model": "021787",
+      "products": [
+        {
+          "id": "1246006678",
+          "sku": "02178708",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-أزرق-فاتح-بكاب-شفاف-وتفاصيل-لامعة-1246006678/p1246006678",
+          "image": "https://cdn.salla.sa/PdzzEO/55fb8b2d-31a9-4536-ae98-73d128bf4d18-333.33333333333x500-s3RgQWLFCTa95F220i0KYaXBzxLHtp8YhSjKuZCL.png"
+        },
+        {
+          "id": "533219212",
+          "sku": "02178725",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-زيتوني-بكاب-منسدل-533219212/p533219212",
+          "image": "https://cdn.salla.sa/PdzzEO/eab03331-a822-457c-a119-0cf1a787c43a-333.33333333333x500-fgLuehjwPcfJ9GqCdyoNDeWw1PLKTr5ObwfhgD5t.png"
+        }
+      ]
     },
-    {
-      "id": "983658059",
-      "sku": "02176818",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-عنابي-طويل-بأكتاف-مكشوفة-وشق-أمامي-983658059/p983658059",
-      "image": "https://cdn.salla.sa/PdzzEO/eb2c1aa9-5bfd-4830-8fd0-93f279548ae3-333.33333333333x500-YHsUqXIMXdvgkgjxXRAqxYbBGSYYvdXLrAz0C6AH.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021787",
-  "products": [
     {
-      "id": "1246006678",
-      "sku": "02178708",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-أزرق-فاتح-بكاب-شفاف-وتفاصيل-لامعة-1246006678/p1246006678",
-      "image": "https://cdn.salla.sa/PdzzEO/55fb8b2d-31a9-4536-ae98-73d128bf4d18-333.33333333333x500-s3RgQWLFCTa95F220i0KYaXBzxLHtp8YhSjKuZCL.png"
+      "model": "021781",
+      "products": [
+        {
+          "id": "1697517593",
+          "sku": "02178111",
+          "color": "بني",
+          "url": "https://qq-fashion.com/فستان-سهرة-ماكسي-من-الدانتيل-والتل-الشفاف-1697517593/p1697517593",
+          "image": "https://cdn.salla.sa/PdzzEO/b6590a02-88a9-4d94-a542-8e1f1b0cdd28-333.33333333333x500-81DswQ0tLp8JGUk7rlfuN0bY7qlJx0r42rC9zc8S.png"
+        },
+        {
+          "id": "781445655",
+          "sku": "02178101",
+          "color": "أسود",
+          "url": "https://qq-fashion.com/فستان-سهرة-ماكسي-من-الدانتيل-والتل-الشفاف-781445655/p781445655",
+          "image": "https://cdn.salla.sa/PdzzEO/8adbc4db-eec3-4c62-9aab-1d8587acb9a9-333.33333333333x500-Z1AV0sBd03LqHAqWdglfIaXtuoilSUIBXronfiYc.png"
+        }
+      ]
     },
-    {
-      "id": "533219212",
-      "sku": "02178725",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-زيتوني-بكاب-منسدل-533219212/p533219212",
-      "image": "https://cdn.salla.sa/PdzzEO/eab03331-a822-457c-a119-0cf1a787c43a-333.33333333333x500-fgLuehjwPcfJ9GqCdyoNDeWw1PLKTr5ObwfhgD5t.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021781",
-  "products": [
     {
-      "id": "1697517593",
-      "sku": "02178111",
-      "color": "بني",
-      "url": "https://qq-fashion.com/فستان-سهرة-ماكسي-من-الدانتيل-والتل-الشفاف-1697517593/p1697517593",
-      "image": "https://cdn.salla.sa/PdzzEO/b6590a02-88a9-4d94-a542-8e1f1b0cdd28-333.33333333333x500-81DswQ0tLp8JGUk7rlfuN0bY7qlJx0r42rC9zc8S.png"
+      "model": "021779",
+      "products": [
+        {
+          "id": "1128051429",
+          "sku": "02177911",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-دانتيل-فاخر-بياقة-هالتر-وقصة-شيفون-مكسر/p1128051429",
+          "image": "https://cdn.salla.sa/PdzzEO/d9c2d847-5c13-4715-bd20-9ef93a82071a-333.33333333333x500-QYBP6Kn64qTiQ0AAvJDLOLqEeniumo5OPs8BGqaU.png"
+        },
+        {
+          "id": "1229302963",
+          "sku": "02177902",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-دانتيل-فاخر-بياقة-هالتر-وقصة-شيفون-مكسر/p1229302963",
+          "image": "https://cdn.salla.sa/PdzzEO/0ec179b9-cb99-4ff2-b777-ed183176838d-333.33333333333x500-aYK6esDf3V0bx0DIEwggMnJ1WoZ0gMTopcTGgNMJ.png"
+        }
+      ]
     },
-    {
-      "id": "781445655",
-      "sku": "02178101",
-      "color": "أسود",
-      "url": "https://qq-fashion.com/فستان-سهرة-ماكسي-من-الدانتيل-والتل-الشفاف-781445655/p781445655",
-      "image": "https://cdn.salla.sa/PdzzEO/8adbc4db-eec3-4c62-9aab-1d8587acb9a9-333.33333333333x500-Z1AV0sBd03LqHAqWdglfIaXtuoilSUIBXronfiYc.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021779",
-  "products": [
     {
-      "id": "1128051429",
-      "sku": "02177911",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-دانتيل-فاخر-بياقة-هالتر-وقصة-شيفون-مكسر/p1128051429",
-      "image": "https://cdn.salla.sa/PdzzEO/d9c2d847-5c13-4715-bd20-9ef93a82071a-333.33333333333x500-QYBP6Kn64qTiQ0AAvJDLOLqEeniumo5OPs8BGqaU.png"
+      "model": "021929",
+      "products": [
+        {
+          "id": "1532116099",
+          "sku": "02192918",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والشيفون-بقصة-أوف-شولدر-وأكتاف-مكشكشة/p1532116099",
+          "image": "https://cdn.salla.sa/PdzzEO/0dbe58a4-55a9-44d1-871d-87faca2a5c35-375x500-53UBPkaR7ZUQ8NsZ57ceqiDIJf6rfLZNBPT0Y9oj.png"
+        },
+        {
+          "id": "1841553280",
+          "sku": "02192911",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والشيفون-بقصة-أوف-شولدر-وأكتاف-مكشكشة/p1841553280",
+          "image": "https://cdn.salla.sa/PdzzEO/377654ea-a9a3-49de-b9ef-b494cfafd455-375x500-NoUSUlNfq7cvsNEUl3d5mWao2IhFoWVfaJfuq3A7.png"
+        }
+      ]
     },
-    {
-      "id": "1229302963",
-      "sku": "02177902",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-دانتيل-فاخر-بياقة-هالتر-وقصة-شيفون-مكسر/p1229302963",
-      "image": "https://cdn.salla.sa/PdzzEO/0ec179b9-cb99-4ff2-b777-ed183176838d-333.33333333333x500-aYK6esDf3V0bx0DIEwggMnJ1WoZ0gMTopcTGgNMJ.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021929",
-  "products": [
     {
-      "id": "1532116099",
-      "sku": "02192918",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والشيفون-بقصة-أوف-شولدر-وأكتاف-مكشكشة/p1532116099",
-      "image": "https://cdn.salla.sa/PdzzEO/0dbe58a4-55a9-44d1-871d-87faca2a5c35-375x500-53UBPkaR7ZUQ8NsZ57ceqiDIJf6rfLZNBPT0Y9oj.png"
+      "model": "021914",
+      "products": [
+        {
+          "id": "2049935576",
+          "sku": "02191425",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-الدانتيل-الفاخر-بياقة-عالية/p2049935576",
+          "image": "https://cdn.salla.sa/PdzzEO/123c94c1-0c55-4ada-aeba-039612825ad4-375x500-Dh7BCaWXjptb9zhV1AlvGh5PEryERqBCI5px4CuF.png"
+        },
+        {
+          "id": "1969151682",
+          "sku": "02191409",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-الدانتيل-الفاخر-بياقة-عالية/p1969151682",
+          "image": "https://cdn.salla.sa/PdzzEO/26ee84cc-3691-45b7-8407-e070d7c55ea0-375x500-zLMXNiOHl8NyCE3ZJYwFQvDiSKrn53xKKH3tzAR1.png"
+        }
+      ]
     },
-    {
-      "id": "1841553280",
-      "sku": "02192911",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والشيفون-بقصة-أوف-شولدر-وأكتاف-مكشكشة/p1841553280",
-      "image": "https://cdn.salla.sa/PdzzEO/377654ea-a9a3-49de-b9ef-b494cfafd455-375x500-NoUSUlNfq7cvsNEUl3d5mWao2IhFoWVfaJfuq3A7.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021914",
-  "products": [
     {
-      "id": "2049935576",
-      "sku": "02191425",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-الدانتيل-الفاخر-بياقة-عالية/p2049935576",
-      "image": "https://cdn.salla.sa/PdzzEO/123c94c1-0c55-4ada-aeba-039612825ad4-375x500-Dh7BCaWXjptb9zhV1AlvGh5PEryERqBCI5px4CuF.png"
+      "model": "021771",
+      "products": [
+        {
+          "id": "1729662366",
+          "sku": "02177125",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بكتف-واحد-ودرابيه-منسدل-مع-عقدة-خصر/p1729662366",
+          "image": "https://cdn.salla.sa/PdzzEO/fd0d972b-5bfa-4a72-b8c9-66129286a68c-333.33333333333x500-AdrTXUeKdpjlw3nqhubG8hDhGtK91AstGOhkWDRM.png"
+        },
+        {
+          "id": "1412924822",
+          "sku": "02177109",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بكتف-واحد-ودرابيه-منسدل-مع-عقدة-خصر/p1412924822",
+          "image": "https://cdn.salla.sa/PdzzEO/02b95082-4632-4139-a1b5-02d613ada6b0-333.33333333333x500-ybMYp6C14qe4HHjmG40SoUuPmviitqMsUeT7u7Nu.png"
+        }
+      ]
     },
-    {
-      "id": "1969151682",
-      "sku": "02191409",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-الدانتيل-الفاخر-بياقة-عالية/p1969151682",
-      "image": "https://cdn.salla.sa/PdzzEO/26ee84cc-3691-45b7-8407-e070d7c55ea0-375x500-zLMXNiOHl8NyCE3ZJYwFQvDiSKrn53xKKH3tzAR1.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021771",
-  "products": [
     {
-      "id": "1729662366",
-      "sku": "02177125",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-بكتف-واحد-ودرابيه-منسدل-مع-عقدة-خصر/p1729662366",
-      "image": "https://cdn.salla.sa/PdzzEO/fd0d972b-5bfa-4a72-b8c9-66129286a68c-333.33333333333x500-AdrTXUeKdpjlw3nqhubG8hDhGtK91AstGOhkWDRM.png"
+      "model": "021872",
+      "products": [
+        {
+          "id": "39993977",
+          "sku": "02187201",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والتل-الاسترتش/p39993977",
+          "image": "https://cdn.salla.sa/PdzzEO/1a487aa9-24f0-4aa3-a7cd-3e1dc668ed68-333.33333333333x500-XTIYBWYNAEDtEz6Dk9yIxPdmECeRqT8Cp5LwbvEs.png"
+        },
+        {
+          "id": "525113459",
+          "sku": "02187224",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والتل-الاسترتش/p525113459",
+          "image": "https://cdn.salla.sa/PdzzEO/11aac561-26ad-4dfc-b139-c9c69b0fdfac-333.33333333333x500-i3d1St8vZhspxGY9fZjvHreI1Yy7LBUeIeumpcwk.png"
+        }
+      ]
     },
-    {
-      "id": "1412924822",
-      "sku": "02177109",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-بكتف-واحد-ودرابيه-منسدل-مع-عقدة-خصر/p1412924822",
-      "image": "https://cdn.salla.sa/PdzzEO/02b95082-4632-4139-a1b5-02d613ada6b0-333.33333333333x500-ybMYp6C14qe4HHjmG40SoUuPmviitqMsUeT7u7Nu.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021872",
-  "products": [
     {
-      "id": "39993977",
-      "sku": "02187201",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والتل-الاسترتش/p39993977",
-      "image": "https://cdn.salla.sa/PdzzEO/1a487aa9-24f0-4aa3-a7cd-3e1dc668ed68-333.33333333333x500-XTIYBWYNAEDtEz6Dk9yIxPdmECeRqT8Cp5LwbvEs.png"
+      "model": "021772",
+      "products": [
+        {
+          "id": "1960852684",
+          "sku": "02177209",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-محتشم-من-الدانتيل-الهندسي-والشيفون-بأكمام-طويلة/p1960852684",
+          "image": "https://cdn.salla.sa/PdzzEO/146101b5-148c-449b-b84f-3237d09b2542-333.33333333333x500-3DXT3zmUeUZEMa65ysgwJufRfGgV0kW4zf0eHGGG.png"
+        },
+        {
+          "id": "762622144",
+          "sku": "02177225",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-محتشم-من-الدانتيل-الهندسي-والشيفون-بأكمام-طويلة/p762622144",
+          "image": "https://cdn.salla.sa/PdzzEO/db9fa926-409a-4a11-8db7-a6db218fbd93-333.33333333333x500-DL2tbSOeSh6ihqiE4SFOL0tf8IyWFD16FEVCqEOW.png"
+        }
+      ]
     },
-    {
-      "id": "525113459",
-      "sku": "02187224",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-من-المخمل-المحفور-والتل-الاسترتش/p525113459",
-      "image": "https://cdn.salla.sa/PdzzEO/11aac561-26ad-4dfc-b139-c9c69b0fdfac-333.33333333333x500-i3d1St8vZhspxGY9fZjvHreI1Yy7LBUeIeumpcwk.png"
-    }
-  ]
-},
 
 
-{
-  "model": "021772",
-  "products": [
     {
-      "id": "1960852684",
-      "sku": "02177209",
-      "color": "لون 1",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-محتشم-من-الدانتيل-الهندسي-والشيفون-بأكمام-طويلة/p1960852684",
-      "image": "https://cdn.salla.sa/PdzzEO/146101b5-148c-449b-b84f-3237d09b2542-333.33333333333x500-3DXT3zmUeUZEMa65ysgwJufRfGgV0kW4zf0eHGGG.png"
+      "model": "061926",
+      "products": [
+        {
+          "id": "174397246",
+          "sku": "06192609",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/طقم-محبوك-ميدي-من-قطعتين-توب-بياقة-بولو-وتنورة-واسعة-برباط-خصر/p174397246",
+          "image": "https://cdn.salla.sa/PdzzEO/41b279f4-b5d2-4121-b285-557348ab71db-375x500-Og8IL1BwGecNNi34jia35e8BS7RuCFdYtnEugTI2.png"
+        },
+        {
+          "id": "1857284412",
+          "sku": "06192608",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/طقم-محبوك-ميدي-من-قطعتين-توب-بياقة-بولو-وتنورة-واسعة-برباط-خصر/p1857284412",
+          "image": "https://cdn.salla.sa/PdzzEO/1eab4d91-5d1b-4d30-9583-9ff0e9b28d00-375x500-ZrPzA2fm26gx4PIlIQLI9yS6JXroPMIwxvzd76Do.png"
+        }
+      ]
     },
+
+
     {
-      "id": "762622144",
-      "sku": "02177225",
-      "color": "لون 2",
-      "url": "https://qq-fashion.com/فستان-سهرة-طويل-محتشم-من-الدانتيل-الهندسي-والشيفون-بأكمام-طويلة/p762622144",
-      "image": "https://cdn.salla.sa/PdzzEO/db9fa926-409a-4a11-8db7-a6db218fbd93-333.33333333333x500-DL2tbSOeSh6ihqiE4SFOL0tf8IyWFD16FEVCqEOW.png"
+      "model": "021773",
+      "products": [
+        {
+          "id": "517004198",
+          "sku": "02177309",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-فاخر-مزيج-بين-المخمل-والدانتيل-بأكتاف-مكشوفة/p517004198",
+          "image": "https://cdn.salla.sa/PdzzEO/b807ab72-0f7f-4243-880b-61288376c55b-333.33333333333x500-6Q0ZP2wUaWKuMhi0hSMlQjmrTtS606aLeVkR1TjY.png"
+        },
+        {
+          "id": "902389834",
+          "sku": "02177301",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-فاخر-باللون-الأسود-مزيج-بين-المخمل-والدانتيل-بأكتاف-مكشوفة/p902389834",
+          "image": "https://cdn.salla.sa/PdzzEO/6e10d20f-4465-43eb-9cd1-8f692cf586a6-279.66607036374x500-G3BVgzRhsxIWyjnlZb4nTgcVoF4kSNwIUCMI6sF7.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021755",
+      "products": [
+        {
+          "id": "143367127",
+          "sku": "02175502",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-فاخر-بياقة-أوف-شولدر-وتنورة-143367127/p143367127",
+          "image": "https://cdn.salla.sa/PdzzEO/19dce7b0-ff91-4b9b-995b-9ece4c85e785-281.3995215311x500-TKi77wOxOOzh4TlLwVluN3IZEpeLkbZcHIxbNxbh.png"
+        },
+        {
+          "id": "486313158",
+          "sku": "02175504",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-فاخر-بياقة-أوف-شولدر-وتنورة-486313158/p486313158",
+          "image": "https://cdn.salla.sa/PdzzEO/1cbdba69-d280-455c-94dd-fa2714b5898e-281.3995215311x500-XBhVtcTWlpoOx9lPOZ5SRWvaQjDIhkj7SHVoJTG7.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021737",
+      "products": [
+        {
+          "id": "278182653",
+          "sku": "02173714",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-مخمل-محفور-278182653/p278182653",
+          "image": "https://cdn.salla.sa/PdzzEO/5be5f68a-2f62-4f86-a325-48295df3b1f7-281.3995215311x500-qGWaHMVAEEVUMrY3wJljMAWiWm9Ee1WnFp2TXnCo.png"
+        },
+        {
+          "id": "1363953707",
+          "sku": "02173718",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-مخمل-محفور-1363953707/p1363953707",
+          "image": "https://cdn.salla.sa/PdzzEO/9ace5c08-acde-4ba4-9d77-fa7a9542b500-281.3995215311x500-YSUBPZMfQZm3NRrQnUCMrPxCNcV86EQUEKtLCm02.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021765",
+      "products": [
+        {
+          "id": "329690436",
+          "sku": "02176504",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-شيفون-بكاب-شبكي-مطرز-329690436/p329690436",
+          "image": "https://cdn.salla.sa/PdzzEO/be0e9848-1bbb-4ed2-829e-6f4f1b5e6ed9-281.3995215311x500-aIaXctQKglJ5nYSKBoo75PpajEQd5kPQm3xT6Uba.png"
+        },
+        {
+          "id": "2134327673",
+          "sku": "02176502",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-شيفون-بكاب-شبكي-مطرز-2134327673/p2134327673",
+          "image": "https://cdn.salla.sa/PdzzEO/e5ad634a-208a-4b3f-b834-29d880f94499-281.3995215311x500-ihMf0f3XNpI3688MuyWtdf1uRxU7zQd3DuSTUpHe.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "061766",
+      "products": [
+        {
+          "id": "840613994",
+          "sku": "06176609",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/طقم-تويد-بلمعة-ناعمة-وأزرار-كريستالية-840613994/p840613994",
+          "image": "https://cdn.salla.sa/PdzzEO/ffc72b0a-7c06-456f-bf47-8c4d057dc960-281.3995215311x500-jpugXHg11lhB1WRCBvmwNOvusPZU5WBYVnmmL7f3.png"
+        },
+        {
+          "id": "405994471",
+          "sku": "06176602",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/طقم-تويد-بلمعة-ناعمة-وأزرار-كريستالية-405994471/p405994471",
+          "image": "https://cdn.salla.sa/PdzzEO/467169d3-6716-43b1-bbb6-86999ef1e0a6-281.3995215311x500-3NGt2KbtmxIkZLVaQzZdi7w1pCS65eC5DicmYn78.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021752",
+      "products": [
+        {
+          "id": "584910453",
+          "sku": "02175221",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بقصة-حورية-البحر-بياقة-ملتوية-وأكمام-جرس/p584910453",
+          "image": "https://cdn.salla.sa/PdzzEO/7599b50c-d9fc-49f9-9759-fbda59d9bd58-281.3995215311x500-pHTFk9niLBEp55JaestoXr8ZRV1C7OsIeM81ZvP1.png"
+        },
+        {
+          "id": "194824474",
+          "sku": "02175209",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بقصة-حورية-البحر-بياقة-ملتوية-وأكمام-جرس/p194824474",
+          "image": "https://cdn.salla.sa/PdzzEO/0bbe759c-daa9-490f-ad79-71d37c3afe2f-333.4514528703x500-FlNafCrWYOBpBm1MgbtDZHyOAXspCUyIvczl8lby.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021764",
+      "products": [
+        {
+          "id": "325506279",
+          "sku": "02176404",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-قميص-بأزرار-وحزام-خصر/p325506279",
+          "image": "https://cdn.salla.sa/PdzzEO/e9ecc0f5-56c5-42f6-a1b4-9092a612bf76-333.33333333333x500-j6f3YGDM4XLm5oYOfG5a68npK8OGlDpNk2zlO5gO.png"
+        },
+        {
+          "id": "2008848101",
+          "sku": "02176420",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-قميص-ميد-كلاسيكي-بأزرار-أمامية-وحزام-جلدي-بحزام-خصر/p2008848101",
+          "image": "https://cdn.salla.sa/PdzzEO/f03f79be-62fd-4b01-aa71-feb5da4e5e44-333.33333333333x500-juQYTFadXVdGqgBaKRYC15bGpi20Ulk7qCiykwte.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021729",
+      "products": [
+        {
+          "id": "587104263",
+          "sku": "02172909",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-يتميز-بتصميم-فخم-وألوان-دافئة/p587104263",
+          "image": "https://cdn.salla.sa/PdzzEO/38e29566-49aa-42ff-b501-ce1cb92b13d6-281.3995215311x500-iaDQrlmXZFuEug9NXkmhGkcMPVdexoPtnAMVxuWa.png"
+        },
+        {
+          "id": "754376241",
+          "sku": "02172918",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-ملكي-باللون-الخمري-بياقة-أوف-شولدر-وتنورة-كلوش-واسعة/p754376241",
+          "image": "https://cdn.salla.sa/PdzzEO/4311cd7a-fb7a-4ce7-a1a5-692ec7b71d19-281.3995215311x500-S7ToYWh45CpXL1I5FCAOsLIvPfp2bxbfyT1LI1yN.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021756",
+      "products": [
+        {
+          "id": "232142795",
+          "sku": "02175618",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-مكسر-بلمعة-خفيفة-وقصة-حورية-البحر-وأكمام-مشقوقة/p232142795",
+          "image": "https://cdn.salla.sa/PdzzEO/9595ba7e-c913-4120-a4a2-7ffdbc30003f-333.33333333333x500-BBORSlLcgykHaKXjXtlsji00WO96Hs0GveWmsMMy.png"
+        },
+        {
+          "id": "2084058932",
+          "sku": "02175625",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-مكسر-بلمعة-خفيفة-وقصة-حورية-البحر-وأكمام-مشقوقة/p2084058932",
+          "image": "https://cdn.salla.sa/PdzzEO/fa428aab-62c2-4887-b9ff-e28601e00bf6-333.33333333333x500-31f6wkYFrANFNh322WGF4Q93Oe2Dbcok0eWOlYIy.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021725",
+      "products": [
+        {
+          "id": "832607958",
+          "sku": "02172511",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بياقة-هالتر-متقاطعة-وتفاصيل-درابيه-على-الخصر/p832607958",
+          "image": "https://cdn.salla.sa/PdzzEO/48896986-9565-4896-b1be-4fdef2966810-333.33333333333x500-98IWfaWVrx4gn9tn3irJzc6q1mTwgndC0VLOGH65.png"
+        },
+        {
+          "id": "1924930553",
+          "sku": "02172518",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بياقة-هالتر-متقاطعة-وتفاصيل-درابيه-على-الخصر/p1924930553",
+          "image": "https://cdn.salla.sa/PdzzEO/5b702a1b-46b6-491a-a12c-c0372ea3c3cb-333.33333333333x500-mU45kyLpMqiTkYfIrj1jHlXDRlSDEXbYc0DtTWHK.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021585",
+      "products": [
+        {
+          "id": "1661688725",
+          "sku": "02-1585-24",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-زمرد-الأناقة-الملكي-1661688725/p1661688725",
+          "image": "https://cdn.salla.sa/PdzzEO/9145bf43-4c98-4a55-8ad7-619f0c2154fd-333.33333333333x500-2FvAmx5A2enLhdU7RHzNDKbYI4OHMkwPBsYjFdhS.png"
+        },
+        {
+          "id": "105198732",
+          "sku": "02-1585-16",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-زمرد-الأناقة-الملكي-105198732/p105198732",
+          "image": "https://cdn.salla.sa/PdzzEO/abd055f9-5361-40e6-8c86-2d130328030c-333.33333333333x500-5GQnY0Y4wEY4oHuA4iVEOOduvCgjbeX7m1kh7iTC.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021754",
+      "products": [
+        {
+          "id": "2039926340",
+          "sku": "02175421",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-طوبي-ميدي-بدانتيل-فاخر-2039926340/p2039926340",
+          "image": "https://cdn.salla.sa/PdzzEO/d8bf8382-dd35-41cc-a885-d39ad6408d91-333.44198174707x500-ItvezxByNuDPZTk7HoTJuoRV2ANg6olhxs3nHJ9h.jpg"
+        },
+        {
+          "id": "1575780474",
+          "sku": "02175409",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-ميدي-بدانتيل-فاخر-1575780474/p1575780474",
+          "image": "https://cdn.salla.sa/PdzzEO/f8787356-00ed-40f4-8e81-1885d8e5b22a-333.87622149837x500-zoFLu2A41yi28WqRFPAAxUd83zFjIOdsDTvZlSV3.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021763",
+      "products": [
+        {
+          "id": "519632237",
+          "sku": "02176302",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بتوب-مطرز-بالزهور-وتنورة-519632237/p519632237",
+          "image": "https://cdn.salla.sa/PdzzEO/39b56d9c-9861-4dcf-9796-a0db228280dd-281.3995215311x500-86fW3cqxnPpgnDkJt7tfGezslevdjyKWm4dJuBCK.png"
+        },
+        {
+          "id": "735660903",
+          "sku": "02176304",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بتوب-مطرز-بالزهور-وتنورة-735660903/p735660903",
+          "image": "https://cdn.salla.sa/PdzzEO/74d9405c-2774-4caa-850a-3a16125a7639-281.3995215311x500-MwHn10jmpV63q7CcoL7nrOnre43V4qlXBuXsPkDF.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021728",
+      "products": [
+        {
+          "id": "13860328",
+          "sku": "02172816",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-مخمل-منقوش-باللون-الأزرق-الملكي-13860328/p13860328",
+          "image": "https://cdn.salla.sa/PdzzEO/55a82b31-fddc-46a2-b19f-b9a410b945dc-333.33333333333x500-nT0WoaQHMZwaOIHHEkM5xdz9J24sKSCGvVroQvph.png"
+        },
+        {
+          "id": "1697202158",
+          "sku": "02172809",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-مخمل-منقوش-باللون-الملكي-بأكمام-طويلة/p1697202158",
+          "image": "https://cdn.salla.sa/PdzzEO/59b65b80-c784-4766-9c78-13f610a10eaf-333.33333333333x500-OOklroyEM99sO6CZNHAfo3Zbwcz8pGROQzv6DKWJ.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "061381",
+      "products": [
+        {
+          "id": "1776023427",
+          "sku": "06138109",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/طقم-أنيق-قطعتين-توب-تريكو-بعقدة-خصر-وتنورة-مكسرة-منقوشة/p1776023427",
+          "image": "https://cdn.salla.sa/PdzzEO/1e89c3c1-8ea2-48ff-98bc-4c61df08e54c-333.33333333333x500-q36yFLomPnUOHfjGJQFKJIEnUEDtzRZA7C8vFjsz.png"
+        },
+        {
+          "id": "1669066922",
+          "sku": "06138118",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/طقم-أنيق-قطعتين-توب-تريكو-بعقدة-خصر-وتنورة-مكسرة-منقوشة/p1669066922",
+          "image": "https://cdn.salla.sa/PdzzEO/8827e4f2-b61d-477d-b9e8-ad6a450aae36-333.33333333333x500-wwHNvHRPehkELTZNEiNJHIuFEg2PlMRm3RvQm7KW.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021750",
+      "products": [
+        {
+          "id": "1710111059",
+          "sku": "02175016",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-مخملي-بتطريز-كريستالي-وكاب-شيفون-1710111059/p1710111059",
+          "image": "https://cdn.salla.sa/PdzzEO/b0973ae8-2076-49b4-80c5-809ebd17b97c-333.4514528703x500-A35RouFLZO1ak0z43z1Orp95ChgEsYmCsZNZpT8M.jpg"
+        },
+        {
+          "id": "943475011",
+          "sku": "02175025",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-مخملي-بتطريز-كريستالي-وكاب-شيفون-943475011/p943475011",
+          "image": "https://cdn.salla.sa/PdzzEO/800149c5-69a7-4aed-b4df-e78c053ef254-333.33333333333x500-PxzB3sY7n1ckc1gXCYLS9p4SqGyKz8bxa0p6UnsM.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021748",
+      "products": [
+        {
+          "id": "412850029",
+          "sku": "02174811",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-بني-مطرز-بالترتر-بكتف-مائل-وكسرات-درابيه/p412850029",
+          "image": "https://cdn.salla.sa/PdzzEO/76b8ca85-15bc-449f-a72f-73f53d4ad7ac-279.66607036374x500-bsKWEvF2Z57cjbcyYeWkGhgqu3ZvAazyog1rWjLN.png"
+        },
+        {
+          "id": "2018143917",
+          "sku": "02174818",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-أحمر-عنابي-مطرز-بالترتر-بكتف-مائل-وكسرات-درابيه/p2018143917",
+          "image": "https://cdn.salla.sa/PdzzEO/b9cb8acd-fbe4-4df7-af69-94668c8bebd0-279.66607036374x500-RiBvypmUQxvIWSaESKfeC4pLQIwhBYuRKG1wVfDj.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021770",
+      "products": [
+        {
+          "id": "1055382911",
+          "sku": "02177025",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بلون-أخضر-زيتونيميرمية-بياقة-درابيه-ونقوش-هندسية/p1055382911",
+          "image": "https://cdn.salla.sa/PdzzEO/a256416e-cf78-4d54-bed4-1a647d38eb3a-333.33333333333x500-4oMqkL1Mw7bUul0qEmxJ7AUm0NG6apBfhLwXKFl9.png"
+        },
+        {
+          "id": "424053003",
+          "sku": "02177011",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بلون-بني-ميرمية-بياقة-درابيه-ونقوش-هندسية/p424053003",
+          "image": "https://cdn.salla.sa/PdzzEO/6aefdc4e-61cd-4de3-8fdb-a46bd9c6a1e5-333.33333333333x500-qcR3G3pK1kYVYexIUKdDhszCdEXCtGTlod1NDZWR.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021391",
+      "products": [
+        {
+          "id": "961431164",
+          "sku": "02-1391-01",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/بريق-المخمل-الملكي-الفاخر-961431164/p961431164",
+          "image": "https://cdn.salla.sa/PdzzEO/0940c1a8-2d66-4abd-a97f-139f7190328c-333.33333333333x500-73meZoVeMwOiZlbuABiIChPFu7TmmIs5ANjfg3Qn.png"
+        },
+        {
+          "id": "638388577",
+          "sku": "02-1391-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/بريق-المخمل-الملكي-الفاخر-638388577/p638388577",
+          "image": "https://cdn.salla.sa/PdzzEO/033db91f-e40d-442f-96e4-f62bb1aee4dc-333.33333333333x500-55CYwC3Bp7xm6LYW3WJ33eZAa5d0ug5pgX4xlIb9.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021361",
+      "products": [
+        {
+          "id": "1742475626",
+          "sku": "02-1361-18",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ميدي-برغندي-بفيونكات-لامعة-وأكمام-1742475626/p1742475626",
+          "image": "https://cdn.salla.sa/PdzzEO/c5f7b182-15f0-4caa-93f3-4b03caa3a68b-333.33333333333x500-fOK3oKURE5E9hLWCBJBUGImIkY9I5SAtc86GYZt7.png"
+        },
+        {
+          "id": "691198292",
+          "sku": "02-1361-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-ميدي-موف-بفيونكات-لامعة-وأكمام-691198292/p691198292",
+          "image": "https://cdn.salla.sa/PdzzEO/19ce37c2-b2d7-4a87-9503-e529bdbf40db-333.33333333333x500-yV2kg6CD8LK99ffsVH6rZeUqYtwUCPwth0L2iq8y.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021362",
+      "products": [
+        {
+          "id": "761728675",
+          "sku": "02-1362-01",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-وهج-الماس-761728675/p761728675",
+          "image": "https://cdn.salla.sa/PdzzEO/2f61d5d2-4d45-4067-bab1-325a1bbf5589-333.33333333333x500-tiLjirjQ3dVTUOAM45P591g53g4l95dDB5ipAWoJ.png"
+        },
+        {
+          "id": "796876125",
+          "sku": "02-1362-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-وهج-الماس-796876125/p796876125",
+          "image": "https://cdn.salla.sa/PdzzEO/8c94f9af-9bac-4681-8219-6df05d65f797-333.33333333333x500-cxeEajAqFuF24WYLCJARhbgDbWw2HrJSfaBDplXC.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021356",
+      "products": [
+        {
+          "id": "2009012315",
+          "sku": "02-1356-18",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-مخملي-فاخر-بتطريز-أزهار-لامعة-2009012315/p2009012315",
+          "image": "https://cdn.salla.sa/PdzzEO/caa040ad-a7e7-4e26-ad96-bf9f6dc4d5ba-332.79115159401x500-nn1hgrNlJO6UMVCnNit7oFJQnhSH92PAl5Sdajjl.png"
+        },
+        {
+          "id": "1691750483",
+          "sku": "02-1356-01",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-مخملي-فاخر-بتطريز-أزهار-لامعة-1691750483/p1691750483",
+          "image": "https://cdn.salla.sa/PdzzEO/c0496c82-be3c-4ef3-ae8e-d778a53c828e-333.33333333333x500-4MRbDHyHrQFM4zdGw51XKA9kUxbZ4qwmgzMIeBin.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021355",
+      "products": [
+        {
+          "id": "2105003631",
+          "sku": "02-1355-05",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/أناقة-دافئة-تسرق-كل-الأنظار-2105003631/p2105003631",
+          "image": "https://cdn.salla.sa/PdzzEO/20e417de-1f92-4f20-95c4-87243f33dbf0-333.45221112696x500-Vfl72dFAodTUUxyerIPB8Vc2RtbXmhc5dCVO4V4j.jpg"
+        },
+        {
+          "id": "699635972",
+          "sku": "02-1355-11",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/أناقة-دافئة-تسرق-كل-الأنظار-699635972/p699635972",
+          "image": "https://cdn.salla.sa/PdzzEO/d83e68bc-cb7b-4896-9800-4e482b8d8126-333.45221112696x500-7BcpqPvLwZXNQjdumseRIYNwjTx2fLKkRfp2IDPQ.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "061349",
+      "products": [
+        {
+          "id": "537599460",
+          "sku": "06-1349-01",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/طقم-مخمل-أسود-ببلوزة-مزينة-وبنطال-واسع/p537599460",
+          "image": "https://cdn.salla.sa/PdzzEO/0f11005d-2c9f-4825-a132-039bb2921749-333.33333333333x500-MSuT7pbwfvrhtFmUqqhYD8fn1fSEwZKfpSPMrq5G.png"
+        },
+        {
+          "id": "1020547998",
+          "sku": "06-1349-08",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/طقم-مخمل-بني-ببلوزة-مزينة-وبنطال-واسع/p1020547998",
+          "image": "https://cdn.salla.sa/PdzzEO/c33db713-9164-4e5b-9e71-3e6810be46a8-333.33333333333x500-9TkwEj0JUi8mw01DHHISJhKYArTkZRCsJhB4suI5.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "051365",
+      "products": [
+        {
+          "id": "237975673",
+          "sku": "05-1365-08",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/جمبسوت-لأطلالة-فريدة-ومميزة-237975673/p237975673",
+          "image": "https://cdn.salla.sa/PdzzEO/0735d66e-d366-40ea-be3b-77fdc17bc62e-333.33333333333x500-ecso8VaS1Yv5gdyjqMO30BlTlNqnELUrRZVDnnWt.png"
+        },
+        {
+          "id": "1402794615",
+          "sku": "05-1365-01",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/جمبسوت-لأطلالة-فريدة-ومميزة-1402794615/p1402794615",
+          "image": "https://cdn.salla.sa/PdzzEO/ab72cf78-49b0-4baf-a787-ace3af9a540a-332.79115159401x500-sVMvbkIAkjqTELGtsqIRRNqCU3A1X41Gij1XM6BF.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021363",
+      "products": [
+        {
+          "id": "181690614",
+          "sku": "02-1363-01",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/جلابية-سهرة-مخمل-بتطريز-وبكلة-لامعة-181690614/p181690614",
+          "image": "https://cdn.salla.sa/PdzzEO/1caef86d-33f3-4b5d-8d9b-c3014ac99fb4-333.33333333333x500-zTIyYC8dxMcTXnk26IhIcTygJ2y5ECTKduvk4XcN.png"
+        },
+        {
+          "id": "2013493486",
+          "sku": "02-1363-18",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/جلابية-سهرة-مخمل-بتطريز-وبكلة-لامعة-2013493486/p2013493486",
+          "image": "https://cdn.salla.sa/PdzzEO/e548a07f-67d3-44e8-8168-f5091539bbd9-333.33333333333x500-eY9D2JKtPozhWOdDTHvJd0tUBtCfLNfhfvxzsfGf.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021402",
+      "products": [
+        {
+          "id": "155406185",
+          "sku": "02-1402-08",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-بتصميم-راق-ولمسة-أنثوية-ناعمة-155406185/p155406185",
+          "image": "https://cdn.salla.sa/PdzzEO/2de34320-203d-47f3-94aa-2fb6dc2e4587-333.2182320442x500-Szi36IO1KhzylYmTMgoiR10NrPwjLTf9q2asqr1U.jpg"
+        },
+        {
+          "id": "2121942881",
+          "sku": "02-1402-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-بتصميم-راق-ولمسة-أنثوية-ناعمة-2121942881/p2121942881",
+          "image": "https://cdn.salla.sa/PdzzEO/7b6ccc80-cced-4b1f-987e-fb07754f04aa-333.2182320442x500-W3LEHJbWoVKbuIUwenEx3he3ydYvS28ZkjNGZbzX.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021426",
+      "products": [
+        {
+          "id": "738847173",
+          "sku": "02-1426-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-أنثوي-راق-738847173/p738847173",
+          "image": "https://cdn.salla.sa/PdzzEO/dc488696-3612-4b72-8c1d-15ace973c3ed-333.2182320442x500-utCOv2Pa4kkrvekqeIzWOPpBxjcevily1sSMKigN.jpg"
+        },
+        {
+          "id": "1687973369",
+          "sku": "02-1426-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-أنثوي-راق-1687973369/p1687973369",
+          "image": "https://cdn.salla.sa/PdzzEO/a01f8d70-bbf1-455f-ab7b-99e7bd928b80-375x500-2nW5nxSK4O4YX8h3rE0qULbEvBr9qhD87KHVzRsY.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021368",
+      "products": [
+        {
+          "id": "475690764",
+          "sku": "02-1368-25",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-انيق-ومميز-475690764/p475690764",
+          "image": "https://cdn.salla.sa/PdzzEO/600f834f-485a-44a4-a37a-df0dd81ca18b-375x500-KcaNzrialfbeU9YIbtGusFSXAoN9u098jinYe2J0.png"
+        },
+        {
+          "id": "1391977950",
+          "sku": "02-1368-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-انيق-ومميز-1391977950/p1391977950",
+          "image": "https://cdn.salla.sa/PdzzEO/d8587a24-206d-47c4-962b-2b22d8723537-375x500-anfeHte55EfoWng7yIiG6kCinyAdmHh189X8GRHx.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021236",
+      "products": [
+        {
+          "id": "1097261506",
+          "sku": "02-1236-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-بترتر-ولمسة-ريش-أنيقة-على-1097261506/p1097261506",
+          "image": "https://cdn.salla.sa/PdzzEO/293c379c-1e66-49fc-9e96-5b75283aae33-333.45221112696x500-gANaK4pUuE4pJzpo1krSyNwTYDUahSVbYI8PLMZA.jpg"
+        },
+        {
+          "id": "1549759990",
+          "sku": "02-1236-01",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أسود-بترتر-ولمسة-ريش-أنيقة-1549759990/p1549759990",
+          "image": "https://cdn.salla.sa/PdzzEO/f37128d2-e1bd-4eee-8c9d-a294afee1352-333.45221112696x500-HZAjmZD6w4GwepBnYJHYZ4of2a4LENASI66avznQ.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021541",
+      "products": [
+        {
+          "id": "28384416",
+          "sku": "02-1541-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-لوميير-الدانتيل-الملكي-28384416/p28384416",
+          "image": "https://cdn.salla.sa/PdzzEO/88f5a16b-c2fe-4f4c-9538-65e4c4c7d50c-333.45221112696x500-CJKj9Mylg1que8VY4kfZ0SmFBJ2v2o4ujTeCA9bn.jpg"
+        },
+        {
+          "id": "555520635",
+          "sku": "02-1541-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-لوميير-الدانتيل-الملكي-555520635/p555520635",
+          "image": "https://cdn.salla.sa/PdzzEO/e02b7411-1b29-4506-ad08-f9761b275d15-333.45221112696x500-ICM4ctxXu6iQ7LiiRIFyY31McMPSWUeLIzaDjj4F.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021542",
+      "products": [
+        {
+          "id": "1274482321",
+          "sku": "02-1542-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-رقي-الكشكش-دانتيل-ناعم-1274482321/p1274482321",
+          "image": "https://cdn.salla.sa/PdzzEO/9f754709-afb9-4864-94df-3f186f9b62ec-400.14265335235x500-mjbKiKffapjqJAsP7P2T8gQ8CrGoMZqohUmeU2Gg.png"
+        },
+        {
+          "id": "668236684",
+          "sku": "02-1542-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-رقي-الكشكش-دانتيل-ناعم-668236684/p668236684",
+          "image": "https://cdn.salla.sa/PdzzEO/289faf81-1372-4647-9504-fc13332cf3a5-333.45221112696x500-iOR8D0qSYuXNoDe6SfyTMuXBChsKHyyftP36RM4g.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021568",
+      "products": [
+        {
+          "id": "1572500398",
+          "sku": "02-1568-25",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ليانا-قصة-أنثوية-ناعمة-1572500398/p1572500398",
+          "image": "https://cdn.salla.sa/PdzzEO/440713c8-c56a-4224-8a22-fa4813f2a934-333.33333333333x500-D6ORayNvEbg4RqhfsmFwyG56m1AUieVfMoyGYgim.jpg"
+        },
+        {
+          "id": "1108717487",
+          "sku": "02-1568-21",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-ليانا-قصة-أنثوية-ناعمة-1108717487/p1108717487",
+          "image": "https://cdn.salla.sa/PdzzEO/a51bc861-abb2-47c7-97a0-465b95e566ba-333.33333333333x500-DagGhQgDhyMLT4etjvU8oyyTwbFCqbYKLtvdiqTO.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "031709",
+      "products": [
+        {
+          "id": "904237299",
+          "sku": "03-1709-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/قميص-بيج-مطرز-بلمسة-زرقاء-904237299/p904237299",
+          "image": "https://cdn.salla.sa/PdzzEO/bf535ca4-1517-4ff0-a4e3-8227612c99e2-333.4487534626x500-01yHmKPcGgPZas3qAxnRFOrR2shrVwKcZOT0IMXW.jpg"
+        },
+        {
+          "id": "1860180034",
+          "sku": "03-1709-18",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/قميص-أحمر-بنقشات-زهرية-أنيقة-1860180034/p1860180034",
+          "image": "https://cdn.salla.sa/PdzzEO/9ad7fcfc-f164-493e-91d6-4ff263227667-333.2182320442x500-tTSehaIOUpDLdaivXo9ltQ7Xo7LGcgFlUBoKt2fa.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "011732",
+      "products": [
+        {
+          "id": "1832517767",
+          "sku": "01-1732-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/تنورة-ماكسي-رمادي-بحزام-وقصة-واسعة-1832517767/p1832517767",
+          "image": "https://cdn.salla.sa/PdzzEO/3e7e100a-d6dd-47ca-b865-e5dc5482b7ec-333.33333333333x500-KXi83x99oeaW08zpXDgt6LLuDgbDLyEUYbixvk1q.png"
+        },
+        {
+          "id": "1104924150",
+          "sku": "01-1732-01",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/تنورة-ماكسي-أسود-بحزام-وقصة-واسعة-1104924150/p1104924150",
+          "image": "https://cdn.salla.sa/PdzzEO/63e17fc3-dfd5-4200-8806-79ea92a7df0f-333.44198174707x500-Pex9VCs6YvXYvZKqnpUUhAllv8KCfkCfJRcXACnk.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "031326",
+      "products": [
+        {
+          "id": "741351587",
+          "sku": "03-1326-01",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/يوم-عمل-بإطلالة-كاجوال-مثالية-741351587/p741351587",
+          "image": "https://cdn.salla.sa/PdzzEO/a5d736d2-c83e-48d0-9ee7-c46657a0f4a7-375x500-KJ5h25xQMkk2NqCvc9169kNLLfgw9vjQxXMr4e0U.png"
+        },
+        {
+          "id": "1862754178",
+          "sku": "03-1326-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/بلوزة-بيج-شامبين-منقوشة-أنيقة-1862754178/p1862754178",
+          "image": "https://cdn.salla.sa/PdzzEO/bbe9cc4d-2549-4d48-b63d-8cf635c649c0-333.2182320442x500-J1EnQA3iSlgyc5lQ5dZ2e3VKXz3FqR6ActDYUa2v.jpg"
+        },
+        {
+          "id": "383400360",
+          "sku": "03-1326-08",
+          "color": "لون 3",
+          "url": "https://qq-fashion.com/بلوزة-مطبعة-بياقة-وأكمام-قابلة-383400360/p383400360",
+          "image": "https://cdn.salla.sa/PdzzEO/18d33d8e-a0c1-44c1-8438-a4e1b228e41b-333.33333333333x500-lJYVnOLZQEKlrQZQaKI1uinBkxxrOqfprbv0BgGO.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "031665",
+      "products": [
+        {
+          "id": "1876063944",
+          "sku": "03-1665-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/بلوزة-منقطة-بقصة-ملتفة-1876063944/p1876063944",
+          "image": "https://cdn.salla.sa/PdzzEO/798371be-8a64-4a8b-9474-264cf13c0664-333.44851416724x500-23Ep1hFqWrZZ2s5jJWM6yhsVqMaJtZoh1k3MA6aH.jpg"
+        },
+        {
+          "id": "640105395",
+          "sku": "03-1665-18",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/بلوزة-عنابية-منقطة-بقصة-ملتفة-640105395/p640105395",
+          "image": "https://cdn.salla.sa/PdzzEO/0a3997be-f08c-4eef-abe3-330e34d67be2-333.2182320442x500-sizb1Kj32N8C1IlJ1bu8Roy9YUHuExX1k0xqhHT6.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "031666",
+      "products": [
+        {
+          "id": "1426705360",
+          "sku": "03-1666-05",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/بلوزة-زيتية-بقصة-لف-أنيقة-1426705360/p1426705360",
+          "image": "https://cdn.salla.sa/PdzzEO/f35b0612-d330-4a34-a72f-249e9bd64da0-333.44827586207x500-BNXO8HJLTkoHabCzjaz2J6fJSB3FqXzkO6ObPlC8.jpg"
+        },
+        {
+          "id": "1161045994",
+          "sku": "03-1666-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/بلوزة-بقصة-لف-ناعمة-1161045994/p1161045994",
+          "image": "https://cdn.salla.sa/PdzzEO/626000cb-c439-4adc-8c7e-79d1e00906df-333.2182320442x500-prJRwFsfxr3fQP462e7De1jOjhTK0sahd2tCUke5.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021416",
+      "products": [
+        {
+          "id": "1147877434",
+          "sku": "02-1416-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-طويل-بلون-عنابي-أنيق-1147877434/p1147877434",
+          "image": "https://cdn.salla.sa/PdzzEO/78ba622d-4883-44cc-890b-d52ce1d8532e-333.55048859935x500-SnROO8jrO4V3siR6ZWF9BwhjqyIlvbfcOsQC2Z92.png"
+        },
+        {
+          "id": "721818281",
+          "sku": "02-1416-16",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-شيفون-كحلي-بحزام-مرصع-721818281/p721818281",
+          "image": "https://cdn.salla.sa/PdzzEO/86db3118-6fdf-48f0-961e-2c9fbc388b61-333.33333333333x500-gVBhMOEPppoN0xUrDylPSWpOzqXMufJFeot9Yid7.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021581",
+      "products": [
+        {
+          "id": "1764655850",
+          "sku": "02-1581-24",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-أنثوي-راق-وانسيابية-1764655850/p1764655850",
+          "image": "https://cdn.salla.sa/PdzzEO/5b36d303-ca0c-4d12-9ecf-7cc9a3f9733e-332.79115159401x500-Qds1c0SP26wCAFxrdPhiGoCh24Tq01gHfyJrShGP.png"
+        },
+        {
+          "id": "274209859",
+          "sku": "02-1581-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-أنثوي-راق-وانسيابية-274209859/p274209859",
+          "image": "https://cdn.salla.sa/PdzzEO/f870d87a-7409-43c2-83b2-2db6971bd5ca-332.79115159401x500-wNnGc4c5vr8qrRWEU7NVY4LFk3re4YMPBX3rsrrM.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021612",
+      "products": [
+        {
+          "id": "1081156533",
+          "sku": "02-1612-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-وردي-فاخر-بكشكش-ناعم-1081156533/p1081156533",
+          "image": "https://cdn.salla.sa/PdzzEO/34cf1516-6788-4745-95cc-da2ac5a50a7c-333.21247280638x500-A68VXI60eWumZ2Tp9HT5svDFoA1NlEOTVXRWkvPv.jpg"
+        },
+        {
+          "id": "995814380",
+          "sku": "02-1612-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سولينا-ماكسي-بكشاكش-أنثوية-995814380/p995814380",
+          "image": "https://cdn.salla.sa/PdzzEO/d6366537-6da9-4647-a613-50bc535bb202-375x500-EuPOEXtpjdtcX6cbvVhNRsXgpo5NvWJFnQPZpizg.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021611",
+      "products": [
+        {
+          "id": "631664881",
+          "sku": "02-1611-14",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-روزالين-ماكسي-بأكتاف-مكشوفة-631664881/p631664881",
+          "image": "https://cdn.salla.sa/PdzzEO/fb1afe8e-d7d7-4f5a-aa29-e1746dd9d391-333.33333333333x500-NFrnikMiyr1PCoDLkC74sguHvN3xKX8jGmeIHuFR.png"
+        },
+        {
+          "id": "848319127",
+          "sku": "02-1611-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-إيلارا-ماكسي-بأكتاف-مكشوفة-848319127/p848319127",
+          "image": "https://cdn.salla.sa/PdzzEO/09635d2d-7809-407d-89bb-b15ff3bc1a8a-375x500-8RPqCETOkx8O2NcE9QqytiPWnwQjw1fskrmMjkAR.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021597",
+      "products": [
+        {
+          "id": "1340071519",
+          "sku": "02-1597-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-باستيل-مطرز-بثنيات-معدنية-راقية-1340071519/p1340071519",
+          "image": "https://cdn.salla.sa/PdzzEO/8be49f57-4623-4d36-94a1-f5c2d1826b6a-333.33333333333x500-vGDZmelVz67zEckw5oNv8agIKycAJ8JpNqs8583X.jpg"
+        },
+        {
+          "id": "1866027890",
+          "sku": "02-1597-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-لافندر-مطرز-بثنيات-معدنية-راقية-1866027890/p1866027890",
+          "image": "https://cdn.salla.sa/PdzzEO/3c78fe57-9eee-474e-8b83-08b3b3239ed5-332.79115159401x500-j4GwTxL6pRcB1D0sOmjRjxtj0dPVgy63RQEpJOZf.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021307",
+      "products": [
+        {
+          "id": "1829397207",
+          "sku": "02-1307-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ميدي-أصفر-مطرز-بشك-يدوي-1829397207/p1829397207",
+          "image": "https://cdn.salla.sa/PdzzEO/3f06d70c-c32e-4f63-a5b8-ae4e67cfd348-332.79115159401x500-hGKLikwmyL2JxMj8E7a6iRuH6nbCUDcEhzcIPrTG.png"
+        },
+        {
+          "id": "739219912",
+          "sku": "02-1307-11",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-لمسة-كراميل-739219912/p739219912",
+          "image": "https://cdn.salla.sa/PdzzEO/8368dec2-2844-44cc-a79d-c1ae4aa6ba62-375x500-FtIL1vSnQ9ZaBaFKIs1K8eWd9Qb3WfJ37lyk0oVR.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021500",
+      "products": [
+        {
+          "id": "1879497126",
+          "sku": "02-1500-06",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ناعم-بتصميم-أنثوي-راق-1879497126/p1879497126",
+          "image": "https://cdn.salla.sa/PdzzEO/09fc5fd3-51dc-4079-afd3-7d4181741085-333.33333333333x500-eJeKLFXZxhOrGqZsdIbajZGqDlQ23CrmPjixKVTN.png"
+        },
+        {
+          "id": "216860817",
+          "sku": "02-1500-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-ناعم-بتصميم-أنثوي-راق-216860817/p216860817",
+          "image": "https://cdn.salla.sa/PdzzEO/fc946716-386c-40d0-8e7d-fbdd8f7513ef-333.55048859935x500-5HazvJ4pT5x7FG2UnZ1FpuwsTzv0mIHV12TkfMxU.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021199",
+      "products": [
+        {
+          "id": "314752389",
+          "sku": "02-1199-16",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-بتفصيل-كاب-ناعم-وتطريز-خصر-314752389/p314752389",
+          "image": "https://cdn.salla.sa/PdzzEO/ae9bd8ae-4cbf-4ad0-b971-5226e28a329b-333.33333333333x500-UUAlgfh2g9iMLwHBsKmUJBzWnSZ08e6CFeEuDPNA.jpg"
+        },
+        {
+          "id": "806675630",
+          "sku": "02-1199-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-بتفصيل-كاب-ناعم-وتطريز-خصر-806675630/p806675630",
+          "image": "https://cdn.salla.sa/PdzzEO/a366874f-e1ce-472b-a7c4-e6c7f3ade121-332.79115159401x500-fEz6KanlNdomOHPPM1WFxoir8kHnPPprEg8a16Un.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021598",
+      "products": [
+        {
+          "id": "160344898",
+          "sku": "02-1598-07",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سحر-الياقوت-الأزرق-الملكي-160344898/p160344898",
+          "image": "https://cdn.salla.sa/PdzzEO/6907ceca-f504-4ed9-86ca-8a5aba50c0ab-332.79115159401x500-ncVPPW7KwWLcv9DkLPqqleUnYzilzy5Bldn0xfy0.png"
+        },
+        {
+          "id": "137920006",
+          "sku": "02-1598-25",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-لمعة-الزيتون-الملكي-137920006/p137920006",
+          "image": "https://cdn.salla.sa/PdzzEO/9a413747-20af-4771-967d-3aabcedeb564-332.79115159401x500-bowUw98frNG9Fmk5mltw2tlvID2IKuvAqc0PrWrR.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021628",
+      "products": [
+        {
+          "id": "752786024",
+          "sku": "02-1628-08",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-الأناقة-المطوية-الفاخرة-752786024/p752786024",
+          "image": "https://cdn.salla.sa/PdzzEO/2fa315a0-3955-42be-853f-e43601d13b80-333.44198174707x500-YhMCp5fOjSLiRvvYeZihQ7ji1LrAZcNi3TXqjAuZ.jpg"
+        },
+        {
+          "id": "1518565801",
+          "sku": "02-1628-25",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-زيتون-الأناقة-المطوية-الفاخرة-1518565801/p1518565801",
+          "image": "https://cdn.salla.sa/PdzzEO/6556319d-0260-45ff-97c1-864e849d4bef-333.44198174707x500-GCgBCCTSIHSoxQTscCsbCGNbWSi0weEhoVbaqYR1.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021673",
+      "products": [
+        {
+          "id": "1818937372",
+          "sku": "02-1673-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-دانتيل-أشعة-الليمون-الناعمة-1818937372/p1818937372",
+          "image": "https://cdn.salla.sa/PdzzEO/0f5e384c-a3ac-4936-8a93-ee3d659d4d61-333.57717629846x500-DCJi6a8AkJxVbxCCaBwy6jBAJPVh70hLFnVCODHI.jpg"
+        },
+        {
+          "id": "552158919",
+          "sku": "02-1673-16",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-راق-وانسيابي-552158919/p552158919",
+          "image": "https://cdn.salla.sa/PdzzEO/c397bbe5-58b4-448b-90c0-7aa63674e7b7-333.22010869565x500-U7K9zYfgzwrWk8KcpnXJ6WXwFkNFN9iBqSA4sZZ6.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021622",
+      "products": [
+        {
+          "id": "605978231",
+          "sku": "02-1622-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-بلون-أصفر-هادئ-بتصميم-605978231/p605978231",
+          "image": "https://cdn.salla.sa/PdzzEO/bfd8f66c-2b83-4481-81ab-082b7700d64f-333.21247280638x500-CgiSCyApJGSKELKTMWf21GrQkBf7yCuXKqiZywba.jpg"
+        },
+        {
+          "id": "1531383488",
+          "sku": "02-1622-06",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-بلون-تيفاني-هادئ-بتصميم-1531383488/p1531383488",
+          "image": "https://cdn.salla.sa/PdzzEO/a267f4b8-ca8e-44ad-812e-a72387048ced-333.21247280638x500-OCcxINlvsNR6WtffnJNNNgG2fQVBNu59UFciw0yE.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021621",
+      "products": [
+        {
+          "id": "1114458520",
+          "sku": "02-1621-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أصفر-باستيل-بذيل-شيفون-انسيابي-1114458520/p1114458520",
+          "image": "https://cdn.salla.sa/PdzzEO/600907fa-021b-46a0-ae44-8cd060b1a7ce-333.21247280638x500-tZrJd7jYk63i8q2KxJXAuI1wanCc2O1dkjIwZZcK.jpg"
+        },
+        {
+          "id": "1078828682",
+          "sku": "02-1621-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-بينك-باستيل-بذيل-شيفون-انسيابي-1078828682/p1078828682",
+          "image": "https://cdn.salla.sa/PdzzEO/310e73cd-1d4f-4050-a457-a721552e4975-333.45428156749x500-sowBQub2dYYN93NmsoCH1UFP05mTSr9IjR2v5xzk.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021556",
+      "products": [
+        {
+          "id": "527291662",
+          "sku": "02-1556-18",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أنيق-بتصميم-عصري-يجمع-بين-527291662/p527291662",
+          "image": "https://cdn.salla.sa/PdzzEO/0340bcf2-cf96-46c5-8385-d345e3fb0903-333.2182320442x500-csxJCCMJIBXPBnR7tHTszGK3KcpeqeUixShIfGvl.jpg"
+        },
+        {
+          "id": "1335362623",
+          "sku": "02-1556-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أنيق-بتصميم-عصري-يجمع-بين-1335362623/p1335362623",
+          "image": "https://cdn.salla.sa/PdzzEO/ee3e738a-d422-4f44-8cf7-9271691be862-333.21247280638x500-JtOPu11lK3VJtnmHzFCbJTlRvdRtU1BFTnItor7N.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021433",
+      "products": [
+        {
+          "id": "1755139740",
+          "sku": "02-1433-06",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أنيق-بلون-كريمي-ناعم-بتصميم-1755139740/p1755139740",
+          "image": "https://cdn.salla.sa/PdzzEO/57d88335-a339-4355-b3e2-a790ff8fe935-333.33333333333x500-WPuV2y54cDWVcKLCfKHjZblTmQZuGDsGEFn1DRPA.jpg"
+        },
+        {
+          "id": "92243094",
+          "sku": "02-1433-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أنيق-بلون-كريمي-ناعم-بتصميم-92243094/p92243094",
+          "image": "https://cdn.salla.sa/PdzzEO/9fccad9e-aa2c-4720-89ca-a85c55e4d3c7-333.44733242134x500-TvQ6KLVBmhc6HLRqJXt7j1MYPu5dQlzbFbIGp6Sd.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021571",
+      "products": [
+        {
+          "id": "2058784583",
+          "sku": "02-1571-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-إليجانس-درابيه-الطويل-2058784583/p2058784583",
+          "image": "https://cdn.salla.sa/PdzzEO/e2709e88-ddd3-4290-9290-76761fd45f3d-333.55048859935x500-hL1DQPv9MHJ5NY9bi5YQ6rRr31VCqSPM68VoSrbq.png"
+        },
+        {
+          "id": "553933544",
+          "sku": "02-1571-07",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-إليجانس-درابيه-الطويل-553933544/p553933544",
+          "image": "https://cdn.salla.sa/PdzzEO/165ed7b9-0e8b-44d1-9d8b-e2e20b5e6ce2-333.55048859935x500-SL6vDfLfRNMIWGcc6cOx9W4B3SDF9bqqkZmeLCAV.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021625",
+      "products": [
+        {
+          "id": "1456376017",
+          "sku": "02-1625-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ليالي-التوت-الملكي-1456376017/p1456376017",
+          "image": "https://cdn.salla.sa/PdzzEO/24962541-4a6a-4c31-81f5-272129881b57-333.21247280638x500-KRSV9LVFPTa5SgDYcSGm07IxRliPruHQWPycjzJZ.jpg"
+        },
+        {
+          "id": "1657753979",
+          "sku": "02-1625-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-شمس-العنبر-1657753979/p1657753979",
+          "image": "https://cdn.salla.sa/PdzzEO/a8f89275-2880-42ba-81a4-9d8f29322ae2-333.21247280638x500-nImlBsFtk7V7hK7rQzTdAVRE0PujCU9noq2yB4Vs.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021632",
+      "products": [
+        {
+          "id": "1855269984",
+          "sku": "02-1632-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ورد-الجوري-1855269984/p1855269984",
+          "image": "https://cdn.salla.sa/PdzzEO/212b8c9c-1128-4805-9b79-2518c86e5875-333.21247280638x500-L3BvRjZwcpRn2AUqsT90f0xsWkPPB7UyLpdmC0qW.jpg"
+        },
+        {
+          "id": "449963837",
+          "sku": "02-1632-05",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-نسيم-الميرمية-449963837/p449963837",
+          "image": "https://cdn.salla.sa/PdzzEO/5aacc840-ab35-4627-bdfd-b55f41ef88af-333.33333333333x500-wdvEbZEq1Y95b60zr37Xyi42VBtbz5pZIS7xKuWn.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021635",
+      "products": [
+        {
+          "id": "11317458",
+          "sku": "02-1635-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-لؤلؤة-الدانتيل-11317458/p11317458",
+          "image": "https://cdn.salla.sa/PdzzEO/0a0c37f0-9fa3-4118-9bf9-2cd8e5800a60-332.79115159401x500-rxblQLs5dCrZyCienr4tETlhEqMKJOp4byaFbyVL.png"
+        },
+        {
+          "id": "44306124",
+          "sku": "02-1635-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-همسات-الدانتيل-الوردي-44306124/p44306124",
+          "image": "https://cdn.salla.sa/PdzzEO/36f36af8-de49-47ec-9060-6149e1bc785c-332.79115159401x500-yJkP4pakps4i5TluPUPRvsgp6RSrAPZZDJGYdRDA.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021633",
+      "products": [
+        {
+          "id": "2058708389",
+          "sku": "02-1633-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-روزاليا-دانتيل-بطبقات-ناعمة-2058708389/p2058708389",
+          "image": "https://cdn.salla.sa/PdzzEO/9d95c855-52b2-4f6c-8e54-595178843b7a-333.45401882694x500-HCx8TCeVCN2DM3R4HFl735jhK7p4sUeGigUhVGX8.jpg"
+        },
+        {
+          "id": "861534809",
+          "sku": "02-1633-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-روزاليا-دانتيل-بطبقات-ناعمة-861534809/p861534809",
+          "image": "https://cdn.salla.sa/PdzzEO/8b9fcf8e-ca79-48f2-b5db-289e454a4724-333.21247280638x500-G7CgIg0cR8Chb0ARqHq73H2xCaGFPVrJUkTgnr1t.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021439",
+      "products": [
+        {
+          "id": "282029879",
+          "sku": "02-1439-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-أنثوي-راق-يجمع-282029879/p282029879",
+          "image": "https://cdn.salla.sa/PdzzEO/1d7f0d22-4906-431b-9430-266ebc6c043a-333.55048859935x500-cT6aMTWBBNwau19RmMG5YZVgU2qL4tbWBTVN96Vc.png"
+        },
+        {
+          "id": "456655412",
+          "sku": "02-1439-06",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-طويل-بتصميم-أنثوي-راق-يجمع-456655412/p456655412",
+          "image": "https://cdn.salla.sa/PdzzEO/109e5261-25fc-46fa-a0c3-84faa86c088f-333.44733242134x500-3aPJWnvCAe4aQLulqNwKgy5tFpIv166h5l6B1tYv.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021595",
+      "products": [
+        {
+          "id": "92639751",
+          "sku": "02-1595-10",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سولينا-كتف-واحد-بكسرات-كريستالية-92639751/p92639751",
+          "image": "https://cdn.salla.sa/PdzzEO/025ad937-6995-4d61-808b-b1d9de2a3481-333.2182320442x500-1rb1MfIMqaSSQJ6UFSihjXEdcKTRVHxJaJTohq1n.jpg"
+        },
+        {
+          "id": "1628845572",
+          "sku": "02-1595-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سولينا-كتف-واحد-بكسرات-كريستالية-1628845572/p1628845572",
+          "image": "https://cdn.salla.sa/PdzzEO/8f8a7253-2f0b-4ec3-9291-0a7a7f142f24-333.21247280638x500-Px5gPvLpB6DoBplTf4ix3quEo7ieuAYkvFXbM7e2.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021596",
+      "products": [
+        {
+          "id": "1176721534",
+          "sku": "02-1596-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-لافينيا-شيفون-بليسيه-بكاب-جانبي-1176721534/p1176721534",
+          "image": "https://cdn.salla.sa/PdzzEO/6f517c33-65d2-45bb-8043-cb817aefbb31-333.33333333333x500-C3JSgsT7SoIijNbe9gijTZwAkGrtqHEkb2ppswLB.jpg"
+        },
+        {
+          "id": "297339906",
+          "sku": "02-1596-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-لافينيا-شيفون-بليسيه-بكاب-جانبي-297339906/p297339906",
+          "image": "https://cdn.salla.sa/PdzzEO/3c02354a-d639-4be4-b505-9a28f4664e3b-333.33333333333x500-rC1NWzAAX6Fuf2fCMO9w3LNpmOfsMTyYmUn4NDJm.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021549",
+      "products": [
+        {
+          "id": "2108357788",
+          "sku": "02-1549-15",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أنثوي-ناعم-بتصميم-عصري-يجمع-2108357788/p2108357788",
+          "image": "https://cdn.salla.sa/PdzzEO/65bfa63a-2da3-48b0-bae0-860083bb2f6c-332.79115159401x500-zXowiV4DZjaoYu5plePFhTLZ205TqApZchsXQa56.png"
+        },
+        {
+          "id": "708669584",
+          "sku": "02-1549-08",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أنثوي-ناعم-بتصميم-عصري-يجمع-708669584/p708669584",
+          "image": "https://cdn.salla.sa/PdzzEO/2667c2e7-0a4c-4c26-b564-34da12ee062f-333.55048859935x500-m4yzO5AtzzBZWw6R7PswHahKYCvZEkJO8SqX9333.png"
+        },
+        {
+          "id": "1656878228",
+          "sku": "02-1549-04",
+          "color": "لون 3",
+          "url": "https://qq-fashion.com/فستان-أنثوي-ناعم-بتصميم-عصري-يجمع-1656878228/p1656878228",
+          "image": "https://cdn.salla.sa/PdzzEO/1807c230-8307-4243-988c-37ffe8c3a55c-333.75904640272x500-qxqwBb8QlCTBoesu265019nz8yZRKA66Ea5xqKuY.jpg"
+        },
+        {
+          "id": "1659143789",
+          "sku": "02-1549-02",
+          "color": "لون 4",
+          "url": "https://qq-fashion.com/فستان-أنثوي-ناعم-بتصميم-عصري-يجمع-1659143789/p1659143789",
+          "image": "https://cdn.salla.sa/PdzzEO/f4c58439-ade7-4569-a9e5-f457852fff6b-333.75904640272x500-b3oE6cs9FSj0i4mulIOeDXgCtRjKg7EF2fivyIOg.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021577",
+      "products": [
+        {
+          "id": "431276523",
+          "sku": "02-1577-04",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-زمرد-السهرة-الناعم-Emerald-Evening-431276523/p431276523",
+          "image": "https://cdn.salla.sa/PdzzEO/a1f8cd5e-ec45-4ace-a316-1644bb3a3343-333.06962025316x500-uBBYohP1jIsPDOGa4dEGyXDkqPK3roI7L7EGTLiD.png"
+        },
+        {
+          "id": "74589934",
+          "sku": "02-1577-24",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-زمرد-السهرة-الناعم-Emerald-Evening-74589934/p74589934",
+          "image": "https://cdn.salla.sa/PdzzEO/629e7072-4b1f-4548-b08a-fda6c824d4e7-333.33333333333x500-GkruLiAHjcGFID3nd5By4l6as68PkL6Yyz2Y1UH4.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021551",
+      "products": [
+        {
+          "id": "1224770324",
+          "sku": "02-1551-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-ورود-السهرة-قصة-ناعمة-طويلة-1224770324/p1224770324",
+          "image": "https://cdn.salla.sa/PdzzEO/e07fb626-004b-4046-b643-51d2db23e1e2-333.33333333333x500-mmlVaMfNiDa32c26TZ4PT6p5Tkcwl5cZrXAX56WZ.jpg"
+        },
+        {
+          "id": "27985672",
+          "sku": "02-1551-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-ورود-السهرة-قصة-ناعمة-طويلة-27985672/p27985672",
+          "image": "https://cdn.salla.sa/PdzzEO/0d20e7f0-dafa-4dbb-bc2c-dfccfd1a75d5-333.46183500386x500-6XcONq9UMihfXHwyLmSzqk3G1lroxsesIkWObtQc.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021631",
+      "products": [
+        {
+          "id": "1821532399",
+          "sku": "02-1631-16",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-كاب-دانتيل-بقصة-أنثوية-انسيابية-1821532399/p1821532399",
+          "image": "https://cdn.salla.sa/PdzzEO/0e47a5c4-4197-4fc6-af43-f0cc0cfd506d-374.58193979933x500-XbNpCi39IaB2pxID55HgcrtOhTVDdgMIw2KQBzvI.png"
+        },
+        {
+          "id": "1790663301",
+          "sku": "02-1631-25",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-كاب-دانتيل-بقصة-أنثوية-انسيابية-1790663301/p1790663301",
+          "image": "https://cdn.salla.sa/PdzzEO/2fdd72b1-01af-4c9b-8d96-108165c66706-333.47978910369x500-cloW91SY0QXguJE203rUcFoCUizjtM8BZ1llA3g5.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021626",
+      "products": [
+        {
+          "id": "1429712881",
+          "sku": "02-1626-16",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أوليف-درابيه-بحلقة-خصر-أنيقة-1429712881/p1429712881",
+          "image": "https://cdn.salla.sa/PdzzEO/c3c75a58-e2a8-4f95-8908-09e98f6f1d4e-374.89539748954x500-2FVp0uI1JKC3VnbJTFl4FquGwDXzduPLKr9zBDDj.png"
+        },
+        {
+          "id": "606339952",
+          "sku": "02-1626-25",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أوليف-درابيه-بحلقة-خصر-أنيقة-606339952/p606339952",
+          "image": "https://cdn.salla.sa/PdzzEO/2fd7d438-0832-4e84-9e48-efdaa4f08e7b-332.79115159401x500-Jzk0GXhHeS7vQp0IKyWwmeiKYtsbRaaw7iM2EjOP.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021429",
+      "products": [
+        {
+          "id": "1317662812",
+          "sku": "02-1429-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-أنيق-بلون-موف-داكن-1317662812/p1317662812",
+          "image": "https://cdn.salla.sa/PdzzEO/86879c4b-a46f-4e88-a641-9d6c83931de7-333.21941216678x500-y4w3qOPdoVI2emVx78oNQmq11aT8KWQ4y0we2FVK.jpg"
+        },
+        {
+          "id": "968377926",
+          "sku": "02-1429-10",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-أنيق-بلون-موف-داكن-968377926/p968377926",
+          "image": "https://cdn.salla.sa/PdzzEO/82de3f48-c317-4a33-bf90-6156f249b748-333.33333333333x500-tjcLwFiYu1hx4qUVrstzSaXhLQXi2zlvQKe3AEhG.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021497",
+      "products": [
+        {
+          "id": "290927314",
+          "sku": "02-1497-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أنيق-بتصميم-أنثوي-راق-يبرز-290927314/p290927314",
+          "image": "https://cdn.salla.sa/PdzzEO/6348913f-bd61-484f-b32c-5bb39a90cd95-333.45221112696x500-dDnafSMc84RuLhVH4xJfbyasP7HQ9K7TRnXl9bvY.jpg"
+        },
+        {
+          "id": "133361115",
+          "sku": "02-1497-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أنيق-بتصميم-أنثوي-راق-يبرز-133361115/p133361115",
+          "image": "https://cdn.salla.sa/PdzzEO/41e8abe2-9b52-4bb9-905b-ff66c427d253-332.79115159401x500-WTCZbuydyZCsz4utDlCJr6xFe658xBcKEDtPt9HL.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021405",
+      "products": [
+        {
+          "id": "1348141187",
+          "sku": "02-1405-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-طويل-جذاب-بتصميم-ناعم-يبرز-1348141187/p1348141187",
+          "image": "https://cdn.salla.sa/PdzzEO/1c264246-4b6b-4305-bd02-228939796e97-333.75904640272x500-8uS19nlaKr5pI7sha79j3hXPS8SYju4WC0urmKKH.jpg"
+        },
+        {
+          "id": "1831093893",
+          "sku": "02-1405-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-طويل-جذاب-بتصميم-ناعم-يبرز-1831093893/p1831093893",
+          "image": "https://cdn.salla.sa/PdzzEO/9dea8680-f7f1-451d-a988-0e6a0c891bf4-333.33333333333x500-nMb7RsM3uupfyYNKtZV8nhGfOZ915COGzSP5KvWx.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021410",
+      "products": [
+        {
+          "id": "27161650",
+          "sku": "02-1410-06",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بخامة-أنيقة-27161650/p27161650",
+          "image": "https://cdn.salla.sa/PdzzEO/1ae860d2-6945-4526-a925-e9e71f1f5a74-332.79115159401x500-NPAYgqx1RQL81fc7TjJL10gGFh7qIAM2GAmRzoiO.png"
+        },
+        {
+          "id": "1083419435",
+          "sku": "02-1410-09",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-طويل-بلون-بنفسجي-أنيق-1083419435/p1083419435",
+          "image": "https://cdn.salla.sa/PdzzEO/15cc9bfa-21b4-4923-9f7e-bb07305acf36-333.33333333333x500-VOJN9rRpoqnaKX7RQ3G0bTQxkuzcoUvSNd9Fe0XT.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021593",
+      "products": [
+        {
+          "id": "1577481433",
+          "sku": "02-1593-16",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-ميرميد-مطرز-فاخر-1577481433/p1577481433",
+          "image": "https://cdn.salla.sa/PdzzEO/12a4b143-882d-403b-b0bc-11a21ed4dc49-333.45808383234x500-Ro8kPevekkg4hWxKNlxspt3PtPwPJtF4IBHwSkrS.jpg"
+        },
+        {
+          "id": "1012237513",
+          "sku": "02-1593-06",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-ميرميد-مطرز-فاخر-الأخضر-1012237513/p1012237513",
+          "image": "https://cdn.salla.sa/PdzzEO/bde2782a-5f46-4422-8c49-23e06b1a473c-333.21247280638x500-nHZXZmUMVNrYBzxwWiLk7GVds7hztC3Gy3v3HQJ2.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021594",
+      "products": [
+        {
+          "id": "172118006",
+          "sku": "02-1594-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-ملكي-مطرز-مع-شال-172118006/p172118006",
+          "image": "https://cdn.salla.sa/PdzzEO/6f8d3e35-e971-4a1a-a700-8f83abde6baf-333.58720487433x500-rpZwhN6vLcJNcIJLWvUPfISiv7svv3RtYakSRtsC.jpg"
+        },
+        {
+          "id": "1364656779",
+          "sku": "02-1594-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-ملكي-مطرز-مع-شال-1364656779/p1364656779",
+          "image": "https://cdn.salla.sa/PdzzEO/19216fb3-6e08-4822-87c3-777aef8bde29-333.58720487433x500-rJn9DkJXtx4fWK3ywMtUJqR6VfRd85kVQ7uS9zDd.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021592",
+      "products": [
+        {
+          "id": "476366248",
+          "sku": "02-1592-06",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-كتف-واحد-مطرز-تصميم-476366248/p476366248",
+          "image": "https://cdn.salla.sa/PdzzEO/7b7e6738-d7c1-4a43-b748-ab1da78f59ae-333.58720487433x500-g8MiQ7jwJHmDjZTzpIGDGrUtvlTP03QQnjKYtljj.jpg"
+        },
+        {
+          "id": "1672134933",
+          "sku": "02-1592-11",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-كتف-واحد-مطرز-تصميم-1672134933/p1672134933",
+          "image": "https://cdn.salla.sa/PdzzEO/4d6c7e8b-4e7e-470d-b5ca-4d3af9a76b71-333.58720487433x500-2yib377isXKMDDlDqVWaQVvqtiXKzHy6rYIx3dBk.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021591",
+      "products": [
+        {
+          "id": "45955565",
+          "sku": "02-1591-09",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-هالتر-مطرز-فاخر-موف-45955565/p45955565",
+          "image": "https://cdn.salla.sa/PdzzEO/57de8a37-2a54-41f4-a128-2a8a79c2e660-333.45780433159x500-W9bE35Svp9yNIoZTh9cE5gJxtaAX7Mwpvyb8tfgy.jpg"
+        },
+        {
+          "id": "1933969439",
+          "sku": "02-1591-05",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-هالتر-مطرز-فاخر-الأخضر-1933969439/p1933969439",
+          "image": "https://cdn.salla.sa/PdzzEO/a8d7511f-0136-4f99-bafb-de15be11a92e-333.58720487433x500-apSPerJr6BnjuakmAw3IDuRbDKbX7BgYFbhsBXCW.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021590",
+      "products": [
+        {
+          "id": "1082933750",
+          "sku": "02-1590-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-سهرة-هالتر-مطرز-بتصميم-فاخر-1082933750/p1082933750",
+          "image": "https://cdn.salla.sa/PdzzEO/bfb8ea5b-86bc-4551-9a20-177c1eb690e1-333.58720487433x500-7yW1BRZENMFliRcA31wN4XBmqqZgqHFf5Zkwwey0.jpg"
+        },
+        {
+          "id": "369272712",
+          "sku": "02-1590-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-سهرة-هالتر-مطرز-بتصميم-فاخر-369272712/p369272712",
+          "image": "https://cdn.salla.sa/PdzzEO/cf0c6879-2d74-4d23-bb35-a5170095b2e1-333.58720487433x500-AXdfcXqLFSoZ50ri8gT36G50RhZxoPvMP1cs4zdj.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021512",
+      "products": [
+        {
+          "id": "444099086",
+          "sku": "02-1512-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أنيق-بتصميم-راق-يجمع-بين-444099086/p444099086",
+          "image": "https://cdn.salla.sa/PdzzEO/94fa4599-99b9-4cde-869e-271efeb656cd-333.45070422535x500-4ChEZmBvf3hzz4OoFZHykSdficpWDJQb7zzFGZRe.jpg"
+        },
+        {
+          "id": "753470723",
+          "sku": "02-1512-19",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أنيق-بتصميم-راق-يجمع-بين-753470723/p753470723",
+          "image": "https://cdn.salla.sa/PdzzEO/9f4492d5-6052-480b-a941-db251a9c46ab-333.45349675559x500-CD4h90m9bvqZIMZKswHDdVItmK8oSBLo4xNs8t1n.jpg"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021220",
+      "products": [
+        {
+          "id": "922539054",
+          "sku": "02-1220-27",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-علاق-ترتر-يتميز-بقصة-فرنسية-922539054/p922539054",
+          "image": "https://cdn.salla.sa/PdzzEO/7185010e-ffb5-4147-9497-501d1bfffc87-332.79115159401x500-q1TQAM4t7KBDPjYNVta29VLvixo9mPXVfpzg5lT0.png"
+        },
+        {
+          "id": "189437484",
+          "sku": "02-1220-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-علاق-ترتر-يتميز-بقصة-فرنسية-189437484/p189437484",
+          "image": "https://cdn.salla.sa/PdzzEO/6a8f0368-0b57-4f0f-976c-23144e120749-332.79115159401x500-aqORkZkn06q6JrNEatNV25Xpbb7xgx4i6TuyFGz2.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021499",
+      "products": [
+        {
+          "id": "159801354",
+          "sku": "02-1499-02",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-بتفاصيل-ناعمة-مطرزة-159801354/p159801354",
+          "image": "https://cdn.salla.sa/PdzzEO/a4ddfa3a-ab91-4dd3-884f-7db25a7bb390-333.33333333333x500-V5emx90jpGxn3x3zbu1ONiBU29iUW1B3TvyJyt5c.png"
+        },
+        {
+          "id": "927071238",
+          "sku": "02-1499-04",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-بتفاصيل-ناعمة-مطرزة-927071238/p927071238",
+          "image": "https://cdn.salla.sa/PdzzEO/e527ca7c-0408-4935-84d7-c8734bdd2455-333.33333333333x500-5MnxrILmCS9QWCO1htq3e44SA88fl6uVMIFD8QhS.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021291",
+      "products": [
+        {
+          "id": "1392503012",
+          "sku": "02-1291-16",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-كحلي-بتصميم-ناعم-ومطرز-على-1392503012/p1392503012",
+          "image": "https://cdn.salla.sa/PdzzEO/f31b68ce-3eeb-4337-b8aa-bd65385ad9b1-333.33333333333x500-JCksEyycZZkIg75NzQRlnH3tUyqH89tsZLq6aNcC.png"
+        },
+        {
+          "id": "502468509",
+          "sku": "02-1291-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-كريمي-بتصميم-ناعم-ومطرز-على-502468509/p502468509",
+          "image": "https://cdn.salla.sa/PdzzEO/f97896ab-fd56-4940-a6cd-7a3aae79db01-333.33333333333x500-OTbtEGhbtADYLVEGnRjVPSfUeFKSXh2u6fFtLuf6.png"
+        },
+        {
+          "id": "611099282",
+          "sku": "02-1291-11",
+          "color": "لون 3",
+          "url": "https://qq-fashion.com/فستان-بني-بتصميم-ناعم-ومطرز-على-611099282/p611099282",
+          "image": "https://cdn.salla.sa/PdzzEO/435eddf2-6672-43bf-b8b6-c17cd7e03f39-375x500-PU0xTKlXaTUNcy2zF1eLAcoEqsFCdhHu9fPCMaUr.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021578",
+      "products": [
+        {
+          "id": "465021597",
+          "sku": "02-1578-24",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-أناقة-الانسياب-465021597/p465021597",
+          "image": "https://cdn.salla.sa/PdzzEO/788dc7bf-89dd-4f73-b4c9-36cc50d0ebab-333.33333333333x500-TJ8xpi7Css11yCSDd0qJdTG5ikxiqpUfjBtqYYu5.png"
+        },
+        {
+          "id": "1690509184",
+          "sku": "02-1578-15",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-أناقة-الانسياب-1690509184/p1690509184",
+          "image": "https://cdn.salla.sa/PdzzEO/ecd0f189-9fa8-4b6c-a2d5-49716bc595fc-333.33333333333x500-jpeiRLrOxWNQQ19E5BGvQLbJOdXlnG3E2ss1yULd.png"
+        }
+      ]
+    },
+
+
+    {
+      "model": "021197",
+      "products": [
+        {
+          "id": "616942487",
+          "sku": "02-1197-05",
+          "color": "لون 1",
+          "url": "https://qq-fashion.com/فستان-بلون-زمردي-غني-616942487/p616942487",
+          "image": "https://cdn.salla.sa/PdzzEO/b5347042-b7d9-4615-8db6-174e13a99e39-375x500-zrUbJWOMFSitg9cuJpud3kwCNsjKwtUDkDYhooEh.png"
+        },
+        {
+          "id": "2051274951",
+          "sku": "02-1197-02",
+          "color": "لون 2",
+          "url": "https://qq-fashion.com/فستان-ناعم-بخامة-شيفون-ناعمة-2051274951/p2051274951",
+          "image": "https://cdn.salla.sa/PdzzEO/3060cc0d-0ef1-48c5-baee-b31ccbf665b3-375x500-rwHXqpkjBXhGK5WP1DsBT4G0I57vuAj9VjXvymvr.jpg"
+        }
+      ]
     }
   ]
 }
-    
-  ]
-}
-
-
-
-
