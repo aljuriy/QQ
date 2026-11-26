@@ -235,11 +235,13 @@ const $=id=>document.getElementById(id);
 let query=null, index=[], ready=false, selection=0;
 const W=48,H=72;
 const searchCrops=[
-  {zoom:1},{zoom:1.14},
-  {zoom:1.29,vertical:-.06},{zoom:1.29,vertical:.06},
-  {zoom:1.29,horizontal:-.09},{zoom:1.29,horizontal:.09}
+  // The largest, centered garment is the search target. Multiple centered
+  // zooms reduce the influence of dresses visible at the image edges.
+  {zoom:1},{zoom:1.12},{zoom:1.25},
+  {zoom:1.34,vertical:-.055},{zoom:1.34,vertical:.055},
+  {zoom:1.48,vertical:-.035},{zoom:1.48,vertical:.035}
 ];
-const garmentCrops=[...searchCrops,{zoom:1.14,horizontal:-.09},{zoom:1.14,horizontal:.09}];
+const garmentCrops=[...searchCrops];
 function image(src){return new Promise((resolve,reject)=>{const i=new Image();i.onload=()=>resolve(i);i.onerror=reject;i.src=src;});}
 function norm(v){let n=Math.sqrt(v.reduce((s,x)=>s+x*x,0))||1;return v.map(x=>x/n);}
 function vector(pixels){
@@ -335,14 +337,24 @@ function rankGarments(signatures,references){
   for(const {group,product,garments} of references){
     if(!garments.length)continue;
     const current=bestByModel.get(group.model);
-    let best=current?.best;
+    const queryScores=[];
     for(const query of signatures){
+      let queryBest;
       for(const reference of garments){
         const evidence=compareGarments(query,reference);
-        if(!best||evidence.score>best.score)best={product,...evidence};
+        if(!queryBest||evidence.score>queryBest.score)queryBest=evidence;
       }
+      if(queryBest)queryScores.push(queryBest);
     }
-    if(best!==current?.best)bestByModel.set(group.model,{group,best});
+    if(!queryScores.length)continue;
+    const ordered=queryScores.slice().sort((a,b)=>b.score-a.score);
+    // Require support from more than one centered crop. A side/background
+    // dress normally scores well in only one crop and is pushed down.
+    const score=.62*ordered[0].score+.28*(ordered[1]?.score??ordered[0].score)+
+      .10*(ordered[2]?.score??ordered[1]?.score??ordered[0].score);
+    const best={product,...ordered[0],score,peak:ordered[0].score,
+      support:ordered[1]?.score??ordered[0].score};
+    if(!current||score>current.best.score)bestByModel.set(group.model,{group,best});
   }
   return [...bestByModel.values()].sort((a,b)=>b.best.score-a.best.score).slice(0,8);
 }
@@ -373,15 +385,20 @@ function ranked(vectors,mode='same',references=index){
   const weights=weightsByMode[mode];
   const bestByModel=new Map();
   for(const entry of references){
-    let score=-Infinity;
+    const queryScores=[];
     for(const queryVector of vectors){
+      let queryBest=-Infinity;
       for(const reference of entry.vectors){
-        score=Math.max(score,similarity(queryVector,reference,weights));
+        queryBest=Math.max(queryBest,similarity(queryVector,reference,weights));
       }
+      queryScores.push(queryBest);
     }
+    const ordered=queryScores.sort((a,b)=>b-a);
+    const score=.62*ordered[0]+.28*(ordered[1]??ordered[0])+.10*(ordered[2]??ordered[1]??ordered[0]);
     const current=bestByModel.get(entry.group.model);
     if(!current||score>current.best.score){
-      bestByModel.set(entry.group.model,{group:entry.group,best:{product:entry.product,score}});
+      bestByModel.set(entry.group.model,{group:entry.group,best:{product:entry.product,score,
+        peak:ordered[0],support:ordered[1]??ordered[0]}});
     }
   }
   return [...bestByModel.values()].sort((a,b)=>b.best.score-a.best.score).slice(0,mode==='same'?8:5);
@@ -486,7 +503,8 @@ async function run(reveal=false){
   const known=index.find(entry=>entry.product.thumb===active.src);
   const garmentResults=rankGarments(active.garments,index);
   const [first,second]=garmentResults;
-  const garmentCandidate=first&&second&&first.best.score>=.72&&first.best.score-second.best.score>=.035;
+  const garmentCandidate=first&&second&&first.best.score>=.64&&first.best.support>=.60&&
+    first.best.score-second.best.score>=.012;
   const wholeImage=ranked(active.full,'same');
   const [sameImage,nextImage]=wholeImage;
   const nearIdentical=sameImage&&nextImage&&sameImage.best.score-nextImage.best.score>=.025&&
@@ -514,8 +532,8 @@ async function run(reveal=false){
     if(matchedDetail){
       match=details[0];
       matchedReference=index.find(entry=>entry.product===match.best.product);
-    }else if(likelyCrop&&!nearIdentical){
-      match=null;
+    }else if(likelyCrop&&!nearIdentical&&garmentCandidate){
+      match=first;
     }else if(!match&&garmentCandidate&&garmentVerified(first,second,details,wholeImage)){
       match=first;
     }
@@ -534,8 +552,12 @@ async function run(reveal=false){
     const hint=byConstruction?.length===0
       ?'لم نجد بدائل متوفرة تجمع تفاصيل القَصّة الظاهرة.'
       :likelyCrop&&!active.construction?'جرّبي صورة تُظهر تفاصيل أكثر من الفستان.':'';
-    render(null,'لم نتمكن من التأكد من الموديل',byConstruction??combineSuggestions(byGarment,byDesign),hint);
-    setStatus('لم نتمكن من التأكد من الموديل.',true);
+    const suggestions=byConstruction??combineSuggestions(byGarment,byDesign);
+    const closest=suggestions[0]||byGarment[0]||byDesign[0];
+    const remaining=closest?suggestions.filter(result=>result.group!==closest.group):suggestions;
+    render(closest,closest?'أقرب فستان للصورة':'لم نتمكن من التأكد من الموديل',remaining,
+      closest?'هذه النتيجة الأقرب بصريًا؛ قارني التفاصيل للتأكد من الموديل.':hint);
+    setStatus(closest?'ظهرت أقرب النتائج للصورة.':'لم نتمكن من التأكد من الموديل.',true);
   }else{
     render(null,'لم نتمكن من التأكد من الموديل',[],'جرّبي صورة أوضح تُظهر تفاصيل الفستان.');
     setStatus('الصورة لا تُظهر تفاصيل كافية.',true);
