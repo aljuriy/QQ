@@ -561,11 +561,10 @@ async function run(reveal=false){
       const averaged=rankRegions(queryRegion(active.image,4),references);
       matchedDetail=regionDetailsVerified(detail)&&consistentRegion(details,averaged);
     }
-    const detailAgrees=details[0]&&first&&details[0].group===first.group;
-    const dominantGarment=active.region.aspect>=.9&&first&&first.best.score>=.58;
-    if(dominantGarment&&!detailAgrees){
-      match=first;
-    }else if(matchedDetail){
+    // A verified aligned detail is stronger evidence than a global garment
+    // signature: a wide crop can contain an isolated belt, sleeves or neckline.
+    // Never overwrite that evidence just because the aspect ratio is wide.
+    if(matchedDetail){
       match=details[0];
       matchedReference=index.find(entry=>entry.product===match.best.product);
     }else if(likelyCrop&&!nearIdentical&&garmentCandidate){
